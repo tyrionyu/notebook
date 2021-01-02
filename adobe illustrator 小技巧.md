@@ -993,3 +993,7 @@ ctrl+shift+O
 ![利用拼合透明度裁切位图](assets/illustrator-a02.jpg)
 
 ![利用拼合透明度裁切位图](assets/illustrator-a03.jpg)
+
+## 互补色、对比色、邻近色、同类色
+
+![互补色、对比色、邻近色、同类色](assets/色彩.jpg)

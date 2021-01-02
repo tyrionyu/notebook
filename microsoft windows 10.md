@@ -22,19 +22,19 @@ P2为使用微PE便携式操作系统辅助安装教程
 
 5. IDM [官网](http://www.internetdownloadmanager.com/)
 
-7. QuickLook Windows商店搜索即可
+6. QuickLook Windows商店搜索即可
 
-8. Notepads Windows商店搜索即可
+7. Notepads Windows商店搜索即可
 
-9. CCleaner [官网](https://www.ccleaner.com/)
+8. CCleaner [官网](https://www.ccleaner.com/)
 
-10. Wox [官网](https://github.com/Wox-launcher/Wox/releases)
+9. Wox [官网](https://github.com/Wox-launcher/Wox/releases)
 
-11. Everything [官网](https://www.voidtools.com/zh-cn/)
+10. Everything [官网](https://www.voidtools.com/zh-cn/)
 
-12. Listary
+11. Listary
 
-13. Bandizip
+12. Bandizip
 
 ## windows10操作系统环境下快捷键
 
@@ -64,3 +64,47 @@ F4+Alt关闭当前窗口，焦点在桌面时则是关机
 ## 百度百科快捷键大全
 
 [百度百科快捷键](https://baike.baidu.com/item/Windows%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/407192?fr=aladdin)
+
+## 最简单粗暴的方式——快捷键
+
+`Windows+Tab`调出虚拟桌面
+`Alt+Tab` 切换不同的窗口
+`Windows+Ctrl+D` 创建新的虚拟桌面
+`Windows+Ｃtrl+F4` 关闭当前虚拟桌面
+`Ctrl＋Windows＋左右箭头`　虚拟桌面切换
+
+## 一些常用cmd命令
+
+1. appwiz.cpl：程序和功能（程序卸载）
+2. calc：启动计算器
+3. charmap：启动字符映射表
+4. chkdsk.exe：Chkdsk磁盘检查（管理员身份运行命令提示符）
+5. cleanmgr： 打开磁盘清理工具
+6. 自动关机命令Shutdown -s -t 600：表示600秒后自动关机,（有没有人像我一样使用番茄工作法？其实很多时候很难控制自己，这是一个很好的方法）
+7. shutdown -a ：可取消定时关机
+8. Shutdown -r -t 600：表示600秒后自动重启
+9. rundll32 user32.dll，LockWorkStation：表示锁定计算机
+10. control：控制面版
+11. msdt：微软支持诊断工具
+12. notepad：打开记事本
+13. Rstrui：系统还原（这个很有用，我上次乱改注册表，电脑开机就黑屏，我依靠盲操作用这项命令还原了电脑）
+
+## 使用「库」
+
+- 功能整理多个文件夹「库」是在 Windows7 之后加入到资源管理器中的功能。
+- 一个「库」可以整合不同位置的多个文件夹。非常利于整理不同位置的同类文件。在
+
+资源管理器中找到「库」视图，右键可以新建库。
+
+在任何库上点击右键菜单中的「属性」，可以选择将哪些文件夹包含到这个库中。下次访问这个库的时候就可以直接查看到所有包含在这个库中的文件夹了。
+
+例如，将不同位置的多个音乐文件夹包含到同一个库中，就可以在一个库中同时查看它们了。
+
+## 快速访问
+
+- 除了分类文件和利用「库」整理文件，你还可以把最常用的文件夹添加到侧边栏的「快速访问」中，方便你在任何路径随时访问最常用的文件夹。
+- 按下 Windows+e 可以随时快速打开资源管理器。
+
+## 炫酷关机（WIN10）
+
+按`WIN+R`，输入`slideToShutDown`
