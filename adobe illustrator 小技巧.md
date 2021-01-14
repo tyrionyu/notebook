@@ -285,6 +285,7 @@ AI中的参考线不仅可以通过调出标尺（`ctrl+R`）后拖拽得到，�
 
 ## AI简单制作放射光线效果
 
+- A方法
 ![放射光线效果01](illustrator-tips.assets/illustrator-tips64.png)
 
 ![放射光线效果02](illustrator-tips.assets/illustrator-tips37.png)
@@ -292,6 +293,9 @@ AI中的参考线不仅可以通过调出标尺（`ctrl+R`）后拖拽得到，�
 ![放射光线效果03](illustrator-tips.assets/illustrator-tips25.png)
 
 ![放射光线效果04](illustrator-tips.assets/illustrator-tips11.png)
+
+- B方法
+![AI 轻松画发散图案](illustrator-tips.assets/ai_tips01.png)
 
 ## 查找字体
 
@@ -491,17 +495,21 @@ k
 ## 选择所选对象下一个对象
 
 `option+command+]`上方的下一个对象
+
 `option+command+[`下方的下一个对象
 
 ## 切换度量单位
 
 win `Alt + Shift + Ctrl + U`
+
 mac `Option + Shift + Command + U`
 
 ## 文本框
 
 `CTRL+SHIFT+L`：文本左对齐
+
 `CTRL+SHIFT+R`：文本右对齐
+
 `CTRL+SHIFT+C`：文本居中对齐
 
 ## 实色填充、渐变填充、无填充之间快速切换
@@ -514,7 +522,7 @@ mac `Option + Shift + Command + U`
 
 ## 无法粘贴对象，请求的变换将使一些对象完全脱离绘图区域
 
-视图—>参考线—>清楚参考线
+视图—>参考线—>清除参考线
 
 ## illustrator中选择工具不显示锚点
 
@@ -654,15 +662,18 @@ AI里的五角星大家都知道它是个胖的，按着ALT键画五角星就是
 ## 锁定/隐藏没有选择的物体
 
 锁定没有选择的物体 【Ctrl】+【Alt】+【Shift】+【2】
+
 隐藏没有选择的物体 【Ctrl】+【Alt】+【Shift】+【3】
 
 ## 三秒搞定取消所有白色叠印
 
 全选对像
+
 选择滤镜－颜色－叠印黑色，如下设置：
+
 下拉菜单选择移去黑色，百分比改为0
-填充描边前打勾，包括黑色和CMY（B）和包括黑色专色前打勾
-确定OK！
+
+填充描边前打勾，包括黑色和CMY（B）和包括黑色专色前打勾确定OK！
 
 ## ai文件总是删不掉
 
@@ -671,13 +682,9 @@ aiicon.dll文件位于C:\Program Files\Common Files\Adobe\Shell.文件目录中�
 
 ## 调整位置
 
-AI画东西的时候 按住鼠标不放 再按住空格键 可以移动移动 调整位置
+AI画东西的时候,按住鼠标不放,再按住空格键,可以移动移动,调整位置;
 
-## 文本框对齐
-
-CTRL+SHIFT+L：文本左对齐
-CTRL+SHIFT+R：文本右对齐
-CTRL+SHIFT+C：文本居中对齐
+## Others
 
 1. 对齐设定参照物－－如果想对齐到A，那么将AB都选中之后，再单击一下A物件（不要按shift键单击，这样只会取消A的选择），再按对齐按钮的时候，B就会对齐到A，如果你在同时选中AB之后不单击一下A，A和B 的对齐就没有参照，这样A和B都会动；如果不是很复杂的图形,可以按Ctrl+U,打开智能参考线,手动对齐.
 2. 段落文字拆分成行，行文字拆分成单字－－对象>拼合透明度，然后解群组再，对象>拼合透明度;
