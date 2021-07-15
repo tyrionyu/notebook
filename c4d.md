@@ -1,5 +1,163 @@
 # C4D
 
+## 灯光设置
+
+### 场景渲染设置
+
+在天空加入，一个hdr
+
+![img](c4d.assets/0.png)
+
+双击新建材质
+
+![img](c4d.assets/0-20210715073826597.png)
+
+材质给天空
+
+![img](c4d.assets/qtrkjy-j4tts3zbj5bis6g.png)
+
+设置
+
+![img](c4d.assets/1zo8j6wjfcfqlxouqggelw.png)
+
+渲染
+
+![img](c4d.assets/eozcydipiytu0m-bn-yaza.png)
+
+## 渲染设置
+
+### 如何渲染的更快
+
+全局光照缓存设置
+
+![img](c4d.assets/0-20210715074245363.png)
+
+3.物理设置
+
+![img](c4d.assets/0-20210715074256760.png)
+
+4.尺寸改下
+
+![img](c4d.assets/0-20210715074304114.png)
+
+## 材质设置
+
+### 颜色
+
+颜色（把颜色理解为油漆或者颜料）
+
+![img](c4d.assets/ufqyffrubitwwud3qj_jja.png)
+
+## 金属
+
+**公式:1.无颜料油漆+2.有反射+3.粗糙度+4.折射率+5.金属反射颜色**
+**总结：如何区分金属类型（软硬）**
+
+看金属软硬  越黑越硬
+
+调IOR：越大越硬
+
+去掉颜色勾选
+
+![img](c4d.assets/vxoqyshw90a9jq6frmbanw.png)
+
+添加反射
+
+![img](c4d.assets/olors2i_8offwlpkgik0ua.png)
+
+添加粗糙度
+
+![img](c4d.assets/gbgih_yawr7zmcdzfzugea.png)
+
+添加折射率
+
+![img](c4d.assets/suu5jmfnrc905xngj5-f3g.png)
+
+添加金属反射颜色
+
+![img](c4d.assets/odx3mkjlnjini8aqzltxsa.png)
+
+## 塑料
+
+**公式:1.有颜料油漆+2.有反射+3.粗糙度+4.折射率+5.金属反射颜色**
+**总结：如何区分塑料类型**
+
+高光部分，越亮反射越强，
+
+折射率越大反射越强（折射率最小1）
+
+添加油漆
+
+![img](c4d.assets/ikaxtmrx3ybkkizt1syera.png)
+
+添加反射
+
+![img](c4d.assets/gbgih_yawr7zmcdzfzugea-20210715074531341.png)
+
+3.添加粗糙度
+
+![img](c4d.assets/gbgih_yawr7zmcdzfzugea-20210715074539099.png)
+
+4.添加折射率
+
+![img](c4d.assets/ufn6l1hqucujo0m-gqsnta.png)
+
+5.添加金属反射颜色
+
+![img](c4d.assets/odx3mkjlnjini8aqzltxsa-20210715074554884.png)
+
+## 透明
+
+**透明常见。1.常规透明玻璃杯 2.磨砂玻璃杯3.彩色玻璃杯（含1.有色玻璃2.透光玻璃）**
+常规透明玻璃杯
+   **公式:1.无颜料油漆+2.有反射+3.透明+4.折射率**
+
+如何区分类型：（看软硬）
+
+1.折射率越高 玻璃越硬。
+
+不需要单独添加反射
+
+![img](c4d.assets/wr7skk_5dkmlcroqlyldua.png)
+
+2.磨砂玻璃杯
+
+多了模糊值
+
+![img](c4d.assets/kysq-rxvlkuqphppcgjqzg.png)
+
+3.彩色玻璃杯（含1.有色玻璃2.透光玻璃）
+
+有色玻璃
+
+注意:颜色的深浅影响了不透明度
+
+![img](c4d.assets/aspm7hvthj2dyhldk-fudw.png)
+
+4.透光玻璃
+
+注意：
+
+吸收距离越高，玻璃透光，
+
+厚薄，颜色对比差别大
+
+吸收距离越低，厚薄，颜色对比差别小
+
+![img](c4d.assets/97kyc4pra6oon3jhfugosa.png)
+
+## 发光
+
+发光内发光，辉光外发光
+
+![img](c4d.assets/0-20210715074723857.png)
+
+![img](c4d.assets/rilqzz8rzmpl3pibnpcvww.png)
+
+## 样条
+
+在空白处单击，选择`平滑`可对线条进行平滑，对线条会进行较大的改变；也可以已在空白处单击，选择`细分`后面的设置，输入值对线条进行平滑，后面这个操作不会对样条进行较大的变化。
+
 ## 快捷键
 
 `E`移动、`T`缩放 、`R`旋转
@@ -86,7 +244,7 @@ C完后，选择时勾选“仅选择可见元素”可选择所有的面。
 
 ![image-20210207085548214](c4d.assets/image-20210207085548214.png)
 
-## 渲染设置
+## C$D渲染设置
 
 ![image-20210207085722517](c4d.assets/image-20210207085722517.png)
 
