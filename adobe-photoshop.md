@@ -1,5 +1,13 @@
 # Adobe photoshop 小技巧
 
+## 导出切片
+
+优化文件大小
+
+![image-20210726080749260](adobe-photoshop.assets/image-20210726080749260.png)
+
+发现，联系、重组
+
 ## 去除黑背景
 
 ![image-20210622193158507](adobe-photoshop.assets/image-20210622193158507.png)
