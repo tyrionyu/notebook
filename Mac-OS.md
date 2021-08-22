@@ -19,21 +19,21 @@
 1、在 Mac 中打开活动监视器（在 Finder 的「应用程序」中搜索「活动监视器」可以找到）。
 2、在「活动监视器」窗口右上角的搜索框里输入「audio」，此时可以搜索到「coreaudiod」进程。
 3、选中「coreaudiod」进程，点击「活动监视器」窗口左上角的「退出进程」按钮，在弹出的对话框中点击「退出」。
-4、「coreaudiod」进程退出后会自动重启，这时声音就恢复了。 
+4、「coreaudiod」进程退出后会自动重启，这时声音就恢复了。
 
 ## 切换到root用户
 
 命令：sudo su
 清除：clear
-node -v #查看node版本
-npm -v #查看npm版本
-cnpm -v #查看cnpm版
+node -v `#查看node版本`
+npm -v `#查看npm版本`
+cnpm -v `#查看cnpm版`
 
-pwd #查看当前所在位置
-mkdir blog #新建blog文件夹
-cd blog/ #进入文件夹
-ls -l #查看生成的文件
-vim hello-world.md #打开编辑hello-world文件
+pwd `#查看当前所在位置`
+mkdir blog `#新建blog文件夹`
+cd blog/ `#进入文件夹`
+ls -l `#查看生成的文件`
+vim hello-world.md `#打开编辑hello-world文件`
 
 ## 软件推荐
 
