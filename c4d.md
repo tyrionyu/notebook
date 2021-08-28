@@ -1,5 +1,11 @@
 # C4D
 
+www.gfxcamp.com
+
+Octane 3.07 r2
+
+最常用的是`pt`与`dl`
+
 ## 拓扑建简单模型
 
 ![image-20210827214914782](c4d.assets/image-20210827214914782.png)
