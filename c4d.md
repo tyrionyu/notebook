@@ -1,4 +1,11 @@
 # C4D
+## 两种建模方法
+
+![建模方法](c4d.assets/%E5%BB%BA%E6%A8%A1%E6%96%B9%E6%B3%95.jpeg)
+
+## 贴图教学
+
+ ![网页捕获_30-8-2021_125457_mp.weixin.qq.com](c4d.assets/贴图教学.jpeg)
 
 ## Octane渲染器
 
