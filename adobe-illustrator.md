@@ -984,3 +984,93 @@ ctrl+shift+o
 ## 超椭圆画法
 
 先绘制一个圆型，再圆型上再绘制一个方型，把圆型的四个描点拖动贴合到方型上就画好了。
+
+## 3D 文字
+
+![3d](adobe-illustrator.assets/3D-stacked-characters.gif)
+
+![3d](adobe-illustrator.assets/3D-stacked-characters-eg.jpeg)
+
+## 重新着色稿
+
+![重新着色稿](adobe-illustrator.assets/ai-01.jpg)
+
+## 复合路径与外观窗口
+
+![复合路径](adobe-illustrator.assets/compound-path.jpg)
+
+## 镜面绘图
+
+![mirror-effect](adobe-illustrator.assets/mirror-effect.jpg)
+
+## 噪点效果
+
+AI里绘制矢量插画时，实现沙沙的噪点效果
+
+![noise-effect](adobe-illustrator.assets/noise-effect.gif)
+
+![noise-effect-eg](adobe-illustrator.assets/noise-effect-eg.jpg)
+
+## 复古印章
+
+AI也能做印章效果，教你做出矢量的复古拓印风
+
+![复古印章](adobe-illustrator.assets/vintage-stamp.gif)
+
+![复古印章](adobe-illustrator.assets/vintage-stamp-eg.jpeg)
+
+## 螺旋旋涡效果
+
+![螺旋旋涡效果](adobe-illustrator.assets/whirlpool.gif)
+
+![螺旋旋涡效果](adobe-illustrator.assets/whirlpool-eg.jpg)
+
+## 欧普风3D字效
+
+快速掌握AI中创建符号和3D功能的简单运用
+
+![欧普风3D字效1](adobe-illustrator.assets/Oprah-wind-3D-word-effect-01.gif)
+![欧普风3D字效2](adobe-illustrator.assets/Oprah-wind-3D-word-effect-02.gif)
+![欧普风3D字效3](adobe-illustrator.assets/Oprah-wind-3D-word-effect-eg.jpg)
+
+## 超酷炫的粒子曲面
+
+超酷炫的粒子曲面
+
+![粒子曲面01](adobe-illustrator.assets/Particle-surfaces.gif)
+
+![粒子曲面02](adobe-illustrator.assets/Particle-surfaces-eg.jpg)
+
+## 3D渐变球体
+
+![3D渐变球体](adobe-illustrator.assets/3D-Gradient-Sphere.jpg)
+
+## 3D大花球
+
+![3D大花球](adobe-illustrator.assets/Flower-Ball-01.gif)
+
+![3D大花球](adobe-illustrator.assets/Flower-Ball-02.gif)
+
+## 变量宽度配置
+
+![变量宽度配置](adobe-illustrator.assets/Variable-width-configuration.jpg)
+
+## 羽毛
+
+![Feather](adobe-illustrator.assets/Feather.gif)
+
+## 绘图模式
+
+![Drawing-mode](adobe-illustrator.assets/Drawing-Mode.jpg）
+
+## 形状生成工具和实时上色工具
+
+![Drawing-mode](adobe-illustrator.assets/Shape-Generation-Tool-and-Live-Coloring-Tool.gif）
+
+## 放射式光效
+
+![Radiation-light-effect](adobe-illustrator.assets/Radiation-light-effect.gif)
+
+## 螺旋线条图案
+
+![Spiral-line-pattern](adobe-illustrator.assets/Spiral-line-pattern.gif)

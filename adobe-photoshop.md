@@ -129,3 +129,55 @@ Ctrl+D 取消选区。左上角选择【编辑】-【内容识别缩放】，找
 ## 凸版印刷
 
 ![凸版印刷](adobe-photoshop.assets/Toppan-Printing.jpg)
+
+## PS 技巧
+
+![技巧](adobe-photoshop.assets/ps-01.jpg)
+
+![技巧](adobe-photoshop.assets/ps-02.jpg)
+
+![技巧](adobe-photoshop.assets/ps-03.jpg)
+
+![技巧](adobe-photoshop.assets/ps-04.jpg)
+
+![技巧](adobe-photoshop.assets/ps-05.gif)
+
+![技巧](adobe-photoshop.assets/ps-06.gif)
+
+![技巧](adobe-photoshop.assets/ps-07.jpg)
+
+![技巧](adobe-photoshop.assets/ps-08.jpg)
+
+![技巧](adobe-photoshop.assets/ps-09.jpg)
+
+## 故障风
+
+![Failure](adobe-photoshop.assets/Failure.jpg)
+
+## 快速调整画笔
+
+![快速调整画笔](adobe-photoshop.assets/ps-00001.gif)
+
+## 制作印章
+
+![印章](adobe-photoshop.assets/ps-00002.gif)
+
+## PS动效
+
+![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-A.gif)
+
+![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-B.gif)
+
+![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-C.gif)
+
+![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-D.gif)
+
+![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-E.gif)
+
+![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-F.gif)
+
+![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-G.gif)
+
+![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-H.gif)
+
+![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-I.gif)
