@@ -93,3 +93,39 @@ Ctrl+D 取消选区。左上角选择【编辑】-【内容识别缩放】，找
 ![image-20210329221742295](adobe-photoshop.assets/image-20210329221742295.png)
 
 ![image-20210329221803811](adobe-photoshop.assets/image-20210329221803811.png)
+
+## photoshop 批处理
+
+![image-20210329221803811](adobe-photoshop.assets/photoshop-actions.jpg)
+
+## photoshop 图层混合模式
+
+![图层混合模式](adobe-photoshop.assets/layer-blending-mode.jpg)
+
+## 图层对齐
+
+![图层对齐](adobe-photoshop.assets/layer-alignment.jpg)
+
+## 对齐像素
+
+![对齐像素](adobe-photoshop.assets/align-pixels.jpg)
+
+## 修复边缘
+
+![修复边缘](adobe-photoshop.assets/repair-tool.jpg)
+
+## 智能参考线
+
+![参考线](adobe-photoshop.assets/reference-line.jpg)
+
+## 蒙板
+
+![蒙板](adobe-photoshop.assets/mask.jpg)
+
+## 字间距
+
+![字间距](adobe-photoshop.assets/word-spacing.jpg)
+
+## 凸版印刷
+
+![凸版印刷](adobe-photoshop.assets/Toppan-Printing.jpg)
