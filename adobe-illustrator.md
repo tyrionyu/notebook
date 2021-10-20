@@ -1061,11 +1061,11 @@ AI也能做印章效果，教你做出矢量的复古拓印风
 
 ## 绘图模式
 
-![Drawing-mode](adobe-illustrator.assets/Drawing-Mode.jpg）
+![Drawing Mode](adobe-illustrator.assets/Drawing-Mode.jpg)
 
 ## 形状生成工具和实时上色工具
 
-![Drawing-mode](adobe-illustrator.assets/Shape-Generation-Tool-and-Live-Coloring-Tool.gif）
+![shape-generation-tool](adobe-illustrator.assets/shape-generation-tool.gif)
 
 ## 放射式光效
 
