@@ -1100,36 +1100,36 @@ AI也能做印章效果，教你做出矢量的复古拓印风
 
 甜甜圈立体字
 
-![illustrator-小技巧](adobe-illustrator.assets\Donut-three-dimensional-word.jpg)
+![illustrator-小技巧](adobe-illustrator.assets/Donut-three-dimensional-word.jpg)
 
 字层次感
 
-![illustrator-小技巧](adobe-illustrator.assets\Word-hierarchy.jpg)
+![illustrator-小技巧](adobe-illustrator.assets/Word-hierarchy.jpg)
 
 科技背景
 
-![illustrator-小技巧](adobe-illustrator.assets\Technology-background.jpg)
+![illustrator-小技巧](adobe-illustrator.assets/Technology-background.jpg)
 
 文字凹陷
 
-![illustrator-小技巧](adobe-illustrator.assets\Sunken-text.jpg)
+![illustrator-小技巧](adobe-illustrator.assets/Sunken-text.jpg)
 
 平滑渐变
 
-![illustrator-小技巧](adobe-illustrator.assets\Smooth-gradient.jpg)
+![illustrator-小技巧](adobe-illustrator.assets/Smooth-gradient.jpg)
 
 立体圆管字
 
-![illustrator-小技巧](adobe-illustrator.assets\Round-pipe.jpg)
+![illustrator-小技巧](adobe-illustrator.assets/Round-pipe.jpg)
 
 发光字
 
-![illustrator-小技巧](adobe-illustrator.assets\Camp-light.jpg)
+![illustrator-小技巧](adobe-illustrator.assets/Camp-light.jpg)
 
 文字炸毛
 
-![illustrator-小技巧](adobe-illustrator.assets\Fried-hair.jpg)
+![illustrator-小技巧](adobe-illustrator.assets/Fried-hair.jpg)
 
 向量效果人像画
 
-![illustrator-小技巧](adobe-illustrator.assets\Portrait-painting.jpg)
+![illustrator-小技巧](adobe-illustrator.assets/Portrait-painting.jpg)
