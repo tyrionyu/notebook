@@ -164,20 +164,38 @@ Ctrl+D 取消选区。左上角选择【编辑】-【内容识别缩放】，找
 
 ## PS动效
 
+帧动画
+
 ![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-A.gif)
+
+位移
 
 ![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-B.gif)
 
+不透明
+
 ![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-C.gif)
+
+蒙版
 
 ![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-D.gif)
 
+样式变化
+
 ![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-E.gif)
+
+做视觉动画
 
 ![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-F.gif)
 
+变形
+
 ![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-G.gif)
 
+缩放
+
 ![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-H.gif)
+
+导出与循环
 
 ![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-I.gif)
