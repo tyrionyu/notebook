@@ -1133,3 +1133,24 @@ AI也能做印章效果，教你做出矢量的复古拓印风
 向量效果人像画
 
 ![illustrator-小技巧](adobe-illustrator.assets/Portrait-painting.jpg)
+
+## Ai设计制作出打凹/雪烙效果
+
+![img](adobe-illustrator.assets/c01.jpg)
+
+![img](adobe-illustrator.assets/c02.jpg)
+
+![img](adobe-illustrator.assets/c03.jpg)
+
+![img](adobe-illustrator.assets/c04.jpg)
+
+![img](adobe-illustrator.assets/c05.jpg)
+
+![img](adobe-illustrator.assets/c06.jpg)
+
+![img](adobe-illustrator.assets/c07.jpg)
+
+![img](adobe-illustrator.assets/c08.jpg)
+
+![img](adobe-illustrator.assets/c09.jpg)
+
