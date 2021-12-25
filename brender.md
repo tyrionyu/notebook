@@ -1,4 +1,4 @@
-# blander
+# blender
 
 ## 快捷键
 
