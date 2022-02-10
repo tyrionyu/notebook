@@ -199,3 +199,8 @@ Ctrl+D 取消选区。左上角选择【编辑】-【内容识别缩放】，找
 导出与循环
 
 ![PS-motion-effects](adobe-photoshop.assets/PS-motion-effects-I.gif)
+
+## 批量导出图片
+
+原：“覆盖动作中的”打开"命令(R)”把复选框勾上；
+目标：“覆盖动作中的”存储为"命令(M)”把复选框勾上；
