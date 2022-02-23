@@ -10,22 +10,16 @@
 * 正交人透视：`5`
 * 设置当前为摄依机视角：`ctrl十Alt +“0"` 数字
 
----
-
 * 四视图: `ctrlt+alt+Q`
 * 顶视图: `7`；底视图:`Ctrl+7`
 * 前视图: `1`；后视图:`ctr+1`
 * 右视图:`3`；左视图:`ctr+3`
 * 反转视图：`9`
 
----
-
 * 聚焦物体:`.`
 * 四视图聚焦物体:`ctrl+.`
 * 全场景:`Home`
 * 单独显示:`/`
-
----
 
 * 输入`qX6` (会在X轴移动6m)
 * 移动Grab、`G`(X.Y.Z) ；位置归零: `Alt +G`
@@ -33,107 +27,18 @@
 * 缩放Scale、`S`；位置归零: `Alt+S`
 * 在移动、旋转，缩放的时候按右键可以取消操作；
 
----
-
 * `N`面板
 * 加选 `Shift +左键`
 * 全选`A`；取消全选`AA`(两下)
-
----
 
 * 刷选可调整半径
 * 添加`shift+A`
 * 删除`Delete`或`x`
 
----
-
 * `F12`渲染
 * `i`关键锁
 
----
-
-游标选中吸附对齐: `shft+s`
-
-游标快速移动:`shft+右键拖动`
-
-拖动游标回到世界坐标:`shft+C`
-
-对象放很大后，选中对像，按`/`回归视角;
-
-`shift+拖动`细微调节
-
-N面板中在变换&旋转&缩放，拖住X、Y、Z左键可以一次性调整参数
-
-G键，移动，缩放，旋转也可以，在输入"X&Y&z可以限这在某个轴向移动（也可以按鼠标中键限定某个轴移动）
-
-`~`切换视图
-
-立方体`右击`合并了`顶点到中心`,可使立方体变为一个点，这个点可以挤出。
-
-连接顶点路行`J`
-
-从顶点创速边和面`F`
-
-滑移顶点`shift十V`
-
----
-
-选中`线`->`右击`->选择`细分`->添加点。
-
-删除顶点、右击选择“融并顶点”
-
-`Command+R` 环切并滑稳
-
-`K`自由切
-
-融并边:删除线
-
-`Ctrl + i`:反选
-
-选择面：先选一个面。按`L`
-
-倒角`Ctrl+B`倒角时鼠标中键滚轮，加边或减少边。
-
-一根线也可以倒角;
-
-`Alt +E`弹出挤出菜单
-
-栅格填充会在顶上四边形，和按F填充有所不同
-
-`i`内挤压，
-
-分离(选中要分离的面按`L`),右击分离选中项;
-
-`Ctrl+J`合并
-
----
-
-复制`Shift+D`
-
-实例复制`Alt +D`，在母模型修改后子模型也会发出变化。
-
-展UV,选择所有面，按`A`，按`U`。
-
-选择原理化BSDF,按`Control+T`，要把Node插件开启才行。
-
-按`.`句号键，会弹出点选择质心位置。
-
-插件"COPY“复制属性菜单(Copy attributes menu),`Control+C`对齐物体,选中两个要对齐的物体。ctrl+c 会弹出菜单。选择对齐到位置就可以对齐了。（会按先选中的那个对象为基准对齐）
-位置信息可以复制，缩放值，还有旋转也都可以复制。
-
----
-
-透选`alt+z`; 框选可以把后面的面，点、线也能选上。或按`L`
-
-环状选择：`alt+左键`
-
-`alt+双击竖线或横线`
-
-`ctrl+"+"`加选
-
-`ctrl+"-"`减选
-
-## 视图
+### 视图
 
 旋转视角 `按住alt+拖拽鼠标左键`
 
@@ -181,7 +86,7 @@ G键，移动，缩放，旋转也可以，在输入"X&Y&z可以限这在某个�
 
 取消隐藏 `alt+H`
 
-## 选择
+### 选择
 
 选择工具 `W(点选、框选、刷选、套索选）`
 
@@ -211,7 +116,7 @@ G键，移动，缩放，旋转也可以，在输入"X&Y&z可以限这在某个�
 
 循环选择 `双击鼠标左键`
 
-## 变换
+### 变换
 
 移动 `G`
 
@@ -231,7 +136,7 @@ G键，移动，缩放，旋转也可以，在输入"X&Y&z可以限这在某个�
 
 应用变换 `ctrl+A`
 
-## 建模
+### 建模
 
 切换模式 `ctrl+tab`
 
@@ -285,7 +190,7 @@ G键，移动，缩放，旋转也可以，在输入"X&Y&z可以限这在某个�
 
 吸附 `按住ctrl`
 
-## 雕刻
+### 雕刻
 
 笔刷大小 `F`
 
@@ -295,7 +200,7 @@ G键，移动，缩放，旋转也可以，在输入"X&Y&z可以限这在某个�
 
 反向作用 `按住ctrl`
 
-## 绘制
+### 绘制
 
 吸色 `S`
 
@@ -303,7 +208,7 @@ G键，移动，缩放，旋转也可以，在输入"X&Y&z可以限这在某个�
 
 橡皮檫 `按住D+鼠标右键`
 
-## 渲染
+### 渲染
 
 渲染视图 `F12`
 
@@ -313,11 +218,100 @@ G键，移动，缩放，旋转也可以，在输入"X&Y&z可以限这在某个�
 
 关闭局部渲染 `ctrl+alt+B`
 
----
+### 常用快捷键大全图
+
+![01](blender.assets/blender-快捷键01.jpeg)
+
+![02](blender.assets/blender-快捷键02.jpeg)
+
+![03](blender.assets/blender-快捷键03.jpeg)
+
+![04](blender.assets/blender-快捷键04.jpeg)
+
+## 游标
 
 `shift+s` 游标
 
 `shift+C` 游标回到中心点
+
+通过3D游标可以改变物体的中心点
+
+游标选中吸附对齐: `shft+s`
+
+游标快速移动:`shft+右键拖动`
+
+拖动游标回到世界坐标:`shft+C`
+
+## 其它技巧
+
+对象放很大后，选中对像，按`/`回归视角;
+
+`shift+拖动`细微调节
+
+N面板中在变换&旋转&缩放，拖住X、Y、Z左键可以一次性调整参数
+
+G键，移动，缩放，旋转也可以，在输入"X&Y&z可以限这在某个轴向移动（也可以按鼠标中键限定某个轴移动）
+
+`~`切换视图
+
+立方体`右击`合并了`顶点到中心`,可使立方体变为一个点，这个点可以挤出。
+
+连接顶点路行`J`
+
+从顶点创速边和面`F`
+
+滑移顶点`shift十V`
+
+选中`线`->`右击`->选择`细分`->添加点。
+
+删除顶点、右击选择“融并顶点”
+
+`Command+R` 环切并滑稳
+
+`K`自由切
+
+融并边:删除线
+
+`Ctrl + i`:反选
+
+选择面：先选一个面。按`L`
+
+倒角`Ctrl+B`倒角时鼠标中键滚轮，加边或减少边。
+
+一根线也可以倒角;
+
+`Alt +E`弹出挤出菜单
+
+栅格填充会在顶上四边形，和按F填充有所不同
+
+`i`内挤压，
+
+分离(选中要分离的面按`L`),右击分离选中项;
+
+`Ctrl+J`合并
+
+复制`Shift+D`
+
+实例复制`Alt +D`，在母模型修改后子模型也会发出变化。
+
+展UV,选择所有面，按`A`，按`U`。
+
+选择原理化BSDF,按`Control+T`，要把Node插件开启才行。
+
+按`.`句号键，会弹出点选择质心位置。
+
+插件"COPY“复制属性菜单(Copy attributes menu),`Control+C`对齐物体,选中两个要对齐的物体。ctrl+c 会弹出菜单。选择对齐到位置就可以对齐了。（会按先选中的那个对象为基准对齐）
+位置信息可以复制，缩放值，还有旋转也都可以复制。
+
+透选`alt+z`; 框选可以把后面的面，点、线也能选上。或按`L`
+
+环状选择：`alt+左键`
+
+`alt+双击竖线或横线`
+
+`ctrl+"+"`加选
+
+`ctrl+"-"`减选
 
 编辑模式下面，双击边可以选择竖的边，按住ctrl+双击边可以选择横的循环边。
 
@@ -336,8 +330,6 @@ G键，移动，缩放，旋转也可以，在输入"X&Y&z可以限这在某个�
 `F2`重命名
 
 `Command+B`倒角
-
-通过3D游标可以改变物体的中心点
 
 shift+r重复上一步操作
 
@@ -376,55 +368,6 @@ X 射线，透视模式Alt+Z
 `command+P` 父子关系，选中保持变换父级
 
 `F12`渲染，在渲染窗口按`ctrl+S`可以保存为png或jpg格式的图片
-
-## 教程推荐
-
-1. [blender基础教程](https://www.bilibili.com/video/BV18f4y1k7D4?spm_id_from=333.999.0.0)
-
-2. [【Grease Pencil 快速入门】之2D动画制作与剪辑](https://www.bilibili.com/video/BV1gJ411B7eL?spm_id_from=333.999.0.0)
-
-3. [Blender 油蜡笔工具详解汇总](https://www.bilibili.com/video/BV1qh411D7ha?spm_id_from=333.999.0.0)
-
-4. [【Blender 2.8 油管最火教程 】人肉翻译 50万成功学员 2020最新 零基础入门到精通](https://www.bilibili.com/video/BV1az4y1X7Tr?spm_id_from=333.999.0.0)
-  
-5. [Blender的100多个增强建模技巧【中英文字幕】](https://www.bilibili.com/video/BV1JZ4y1V7m2?spm_id_from=333.999.0.0)
-  
-6. [【年度基础计划】扎克Blender2.9 雕刻大师 （好猫字幕组）](https://www.bilibili.com/video/BV1Ff4y1i7Co?spm_id_from=333.999.0.0)
-  
-7. [【年度搅拌机计划】Blender2.9 零基础 学习雕刻建模核心技术（好猫字幕组）](https://www.bilibili.com/video/BV1KU4y1p7Na?spm_id_from=333.999.0.0)
-  
-8. [blender如何手绘贴图，很好教程，没封面 【中文翻译](https://www.bilibili.com/video/BV1w54y187nG?spm_id_from=333.999.0.0)
-
-9. [Blender开源字幕组】灯光和材质基础入门（逐步更新翻译）](https://www.bilibili.com/video/BV1HT4y1P7SW?spm_id_from=333.999.0.0)
-  
-10. [你一定要会的Rigify骨骼绑定教程（中文精翻）](https://www.bilibili.com/video/BV1hp4y1x7Xo?spm_id_from=333.999.0.0)
-
-11. [【一起来学动画】翻遍世界，我又找到了一套有趣又好完成的Blender动画上手教程](https://www.bilibili.com/video/BV1Sp4y1v7ic?spm_id_from=333.999.0.0)
-
-12. [Blender 角色动画教程】5个半小时 Blender全流程角色动画教程 从建模 贴图纹理 到 骨胳绑定 动画](https://www.bilibili.com/video/BV1Ky4y1p7h7?spm_id_from=333.999.0.0)
-
-13. [Blender动画制作基础入门视频教程](https://www.bilibili.com/video/BV1jK4y1J7Uq?spm_id_from=333.999.0.0)
-
-14. [【良心中文配音-已更新完结】这应该是Blender2.8全网最棒的初级进阶实战教程](https://www.bilibili.com/video/BV1U4411Z7Ty?spm_id_from=333.999.0.0)
-
-15. [【Blender教程】零基础入门7天掌握Blender（已完结）](https://www.bilibili.com/video/BV1t54y1R7KF?spm_id_from=333.999.0.0)
-
-## 常用快捷键
-
-![01](blender.assets/blender-快捷键01.jpeg)
-
-![02](blender.assets/blender-快捷键02.jpeg)
-
-![03](blender.assets/blender-快捷键03.jpeg)
-
-![04](blender.assets/blender-快捷键04.jpeg)
-
-## 材质
-
-材质
-
-1. 基础色
-2. 粗糙度，反射效果，光滑0非常光滑。
 
 全选点，`m`按距离合并。
 
@@ -509,19 +452,58 @@ Q 快速收藏夹，右键长按可填加到快速收藏夹。
 
 AA选中所有的物体，最后选上一应用了修改器的对象，按ctrl+L选择“复制修改器”
 
-倒角
+## 教程推荐
+
+1. [blender基础教程](https://www.bilibili.com/video/BV18f4y1k7D4?spm_id_from=333.999.0.0)
+
+2. [【Grease Pencil 快速入门】之2D动画制作与剪辑](https://www.bilibili.com/video/BV1gJ411B7eL?spm_id_from=333.999.0.0)
+
+3. [Blender 油蜡笔工具详解汇总](https://www.bilibili.com/video/BV1qh411D7ha?spm_id_from=333.999.0.0)
+
+4. [【Blender 2.8 油管最火教程 】人肉翻译 50万成功学员 2020最新 零基础入门到精通](https://www.bilibili.com/video/BV1az4y1X7Tr?spm_id_from=333.999.0.0)
+
+5. [Blender的100多个增强建模技巧【中英文字幕】](https://www.bilibili.com/video/BV1JZ4y1V7m2?spm_id_from=333.999.0.0)
+
+6. [【年度基础计划】扎克Blender2.9 雕刻大师 （好猫字幕组）](https://www.bilibili.com/video/BV1Ff4y1i7Co?spm_id_from=333.999.0.0)
+
+7. [【年度搅拌机计划】Blender2.9 零基础 学习雕刻建模核心技术（好猫字幕组）](https://www.bilibili.com/video/BV1KU4y1p7Na?spm_id_from=333.999.0.0)
+
+8. [blender如何手绘贴图，很好教程，没封面 【中文翻译](https://www.bilibili.com/video/BV1w54y187nG?spm_id_from=333.999.0.0)
+
+9. [Blender开源字幕组】灯光和材质基础入门（逐步更新翻译）](https://www.bilibili.com/video/BV1HT4y1P7SW?spm_id_from=333.999.0.0)
+
+10. [你一定要会的Rigify骨骼绑定教程（中文精翻）](https://www.bilibili.com/video/BV1hp4y1x7Xo?spm_id_from=333.999.0.0)
+
+11. [【一起来学动画】翻遍世界，我又找到了一套有趣又好完成的Blender动画上手教程](https://www.bilibili.com/video/BV1Sp4y1v7ic?spm_id_from=333.999.0.0)
+
+12. [Blender 角色动画教程】5个半小时 Blender全流程角色动画教程 从建模 贴图纹理 到 骨胳绑定 动画](https://www.bilibili.com/video/BV1Ky4y1p7h7?spm_id_from=333.999.0.0)
+
+13. [Blender动画制作基础入门视频教程](https://www.bilibili.com/video/BV1jK4y1J7Uq?spm_id_from=333.999.0.0)
+
+14. [【良心中文配音-已更新完结】这应该是Blender2.8全网最棒的初级进阶实战教程](https://www.bilibili.com/video/BV1U4411Z7Ty?spm_id_from=333.999.0.0)
+
+15. [【Blender教程】零基础入门7天掌握Blender（已完结）](https://www.bilibili.com/video/BV1t54y1R7KF?spm_id_from=333.999.0.0)
+
+## 材质
+
+材质
+
+1. 基础色
+2. 粗糙度，反射效果，光滑0非常光滑。
+
+## 倒角
 
 ![image-20220130094252317](blender.assets/image-20220130094252317.png)
 
-### 融并顶点快捷键
+## 融并顶点快捷键
 
 ctrl+x
 
-### 球面化快捷键
+## 球面化快捷键
 
 alt+shift+s
 
-### 显示隐藏层级快捷键
+## 显示隐藏层级快捷键
 
 ctrl+H，alt+h，shift+点击
 
@@ -529,7 +511,7 @@ ctrl+H，alt+h，shift+点击
 
 `-`折叠
 
-### 显示隐藏物体
+## 显示隐藏物体
 
 H隐藏
 
@@ -537,11 +519,11 @@ alt+h显示
 
 shift+h 隐藏显中以外的物体
 
-### 变换到物体坐标系
+## 变换到物体坐标系
 
 ![image-20220130143425878](blender.assets/image-20220130143425878.png)
 
-### 交互镜像
+## 交互镜像
 
 control+m(网格-交互镜像)
 
@@ -549,28 +531,47 @@ E，回车一下，再把轴心定位到游标，按S，shift+z，往里缩放�
 
 ![image-20220130160908486](blender.assets/image-20220130160908486.png)
 
-### 显示边长度
+## 显示边长度
 
 ![image-20220130162140344](blender.assets/image-20220130162140344.png)
 
-### 钳制重叠可设置不重叠![image-20220130162940497](blender.assets/image-20220130162940497.png)
+## 钳制重叠可设置不重叠
 
-### 倒角，形状为“0”时的效果![image-20220130163209161](blender.assets/image-20220130163209161.png)
+![image-20220130162940497](blender.assets/image-20220130162940497.png)
+
+## 倒角，形状为“0”时的效果
+
+![image-20220130163209161](blender.assets/image-20220130163209161.png)
 
 ![image-20220130163346602](blender.assets/image-20220130163346602.png)
 
-### 标注
+## 标注
 
 画的过程中，按D加右键，可以擦除。
 
 按住D键可以画
 
-### 轴心点快捷键
+## 轴心点快捷键
 
 `.`
 
 ![image-20220130171028363](blender.assets/image-20220130171028363.png)
 
-### 旋转复制
+## 旋转复制
 
 在编辑模式下，选中物体，按`.`,选择3游标。按`alt`+D的同时按`R`键输入旋转角度，再按shift+R键重复可以复制一圈。如果想把物体单独出来，可以使用物体菜单->使其独立化->物体，物体&数据。。。等供选择。
+
+## 节点操作
+
+1. `ctrl+空格` 放大节点窗口
+2. `ctrl+右键`划一刀切断节点连接
+3. `ctrl+shift+单击`重新链接
+4. 节点窗口离很眼时，选中两个，按下`F`可以重新链接
+5. `alt+x` 没用节点删除
+6. `ctrl+t` 插入三个节点图像；`CTRL+SHIFT+t`
+7. ·色彩1，·色彩2，按`alt+s`两个互换
+8. `ctrl+shift+右键拖动`自动会添加一个混合
+9. 选中两点节点：`ctrl+“+”`、或“-”、或“*”、或“/”会进行运算
+10. shift+w
+11. shift+s
+12. alt+拖动
