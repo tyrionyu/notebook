@@ -20,28 +20,30 @@ P2为使用微PE便携式操作系统辅助安装教程
 ## 软件推荐
 
 1. 7-Zip [官网](https://sparanoid.com/lab/7z/)
-
 2. Geek Uninstaller [官网](https://geekuninstaller.com/)
-
 3. Microsoft Edge [官网](https://www.microsoft.com/en-us/edge)
-
 4. PotPlayer [官网](https://potplayer.daum.net/?lang=zh_CN)
-
 5. IDM [官网](http://www.internetdownloadmanager.com/)
-
 6. QuickLook Windows商店搜索即可
-
 7. Notepads Windows商店搜索即可
-
 8. CCleaner [官网](https://www.ccleaner.com/)
-
 9. Wox [官网](https://github.com/Wox-launcher/Wox/releases)
-
 10. Everything [官网](https://www.voidtools.com/zh-cn/)
-
 11. Listary
-
 12. Bandizip
+13. PureRef [官网](https://www.pureref.com)参考图软件
+右键：移动视窗
+左键：移动画布
+ctrl+shift+A：置于最前端
+ctrl+P：自动排列
+ctrl+方向键：选中的对齐相应边
+Shift+Alt+左键：镜像
+Ctrl+左键：旋转图像
+Ctrl+Shift+左键：旋转图像15度
+按住C+左键框选：裁切
+ctrl+shift+c：还原裁切
+ctal+Y：去掉画板
+ctrl+W：锁定画布
 
 ## windows10操作系统环境下快捷键
 
@@ -63,7 +65,6 @@ P2为使用微PE便携式操作系统辅助安装教程
     win+tab 显示所有正在运行的程序以及可用桌面
 
     ctrl+tab 向右切换切换选项卡
-    
 7. ctrl+shift+Esc 打开任务管理器
 8. win+E 打开文件资源管理器
 9. win+加号/减号 打开放大镜
@@ -173,6 +174,7 @@ P2为使用微PE便携式操作系统辅助安装教程
 ## 机箱
 
 机箱尺寸分为：
+
 1. 全塔式（大机箱）E-ATX（超大板）
 2. 中塔式（中机箱）ATX（大板）
 3. 小塔式（小机箱）M-ATX（小板）
@@ -185,12 +187,12 @@ P2为使用微PE便携式操作系统辅助安装教程
 3. 显存位宽
 4. 显存频率
 
-* 公版显卡（英伟达，amd，生产的显卡），非公版显卡（华硕，七彩虹）。
+公版显卡（英伟达，amd，生产的显卡），非公版显卡（华硕，七彩虹）。
 
-* N卡（NVDIA 英伟达），A卡（AMD）
+N卡（NVDIA 英伟达），A卡（AMD）
 
-* 同样是GTX 1060 的显卡芯片不同的品牌、不同的系列差距在哪？
+同样是GTX 1060 的显卡芯片不同的品牌、不同的系列差距在哪？
 
-* 显卡的品牌和系列那么多到底买哪一款好？
+显卡的品牌和系列那么多到底买哪一款好？
 
-    华硕，技嘉，微星、七彩虹
+华硕，技嘉，微星、七彩虹
