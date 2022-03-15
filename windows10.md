@@ -32,18 +32,32 @@ P2为使用微PE便携式操作系统辅助安装教程
 11. Listary
 12. Bandizip
 13. PureRef [官网](https://www.pureref.com)参考图软件
-右键：移动视窗
-左键：移动画布
-ctrl+shift+A：置于最前端
-ctrl+P：自动排列
-ctrl+方向键：选中的对齐相应边
-Shift+Alt+左键：镜像
-Ctrl+左键：旋转图像
-Ctrl+Shift+左键：旋转图像15度
-按住C+左键框选：裁切
-ctrl+shift+c：还原裁切
-ctal+Y：去掉画板
-ctrl+W：锁定画布
+
+## PureRef 快捷键
+
+    右键：移动视窗
+
+    左键：移动画布
+
+    ctrl+shift+A：置于最前端
+
+    ctrl+P：自动排列
+
+    ctrl+方向键：选中的对齐相应边
+
+    Shift+Alt+左键：镜像
+
+    Ctrl+左键：旋转图像
+
+    Ctrl+Shift+左键：旋转图像15度
+
+    按住C+左键框选：裁切
+
+    ctrl+shift+c：还原裁切
+
+    ctal+Y：去掉画板
+
+    ctrl+W：锁定画布
 
 ## windows10操作系统环境下快捷键
 
