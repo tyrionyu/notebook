@@ -1095,7 +1095,6 @@ AI也能做印章效果，教你做出矢量的复古拓印风
 
 ![illustrator-小技巧](adobe-illustrator.assets/ai-tips-i.gif)
 
-
 ## 一些小技巧
 
 甜甜圈立体字
@@ -1156,20 +1155,27 @@ AI也能做印章效果，教你做出矢量的复古拓印风
 
 ## llustrator 怎么把一个用图案填充的形状，转化成矢量图
 
-1. 选中你要编辑的图片，然后点对象-扩展
+*1.* 选中你要编辑的图片，然后点对象-扩展
 
 ![img](adobe-illustrator.assets/Shape-of-the-pattern-fill-01.jpg)
 
 ![img](adobe-illustrator.assets/Shape-of-the-pattern-fill-02.jpg)
 
-2. 然后在图形上点右键 取消编组
+*2*. 然后在图形上点右键 取消编组
 
 ![img](adobe-illustrator.assets/Shape-of-the-pattern-fill-03.jpg)
 
-3. 再次在图形上点击右键-释放剪切蒙版
+*3*. 再次在图形上点击右键-释放剪切蒙版
 
 ![img](adobe-illustrator.assets/Shape-of-the-pattern-fill-04.jpg)
 
-4. 再次选择释放后的图形，右键 取消编组，即可编辑了。
+*4*. 再次选择释放后的图形，右键 取消编组，即可编辑了。
 
-![img](adobe-illustrator.assets/Shape-of-the-pattern-fill-05.jpg)
+ ![img](adobe-illustrator.assets/Shape-of-the-pattern-fill-05.jpg)
+
+## 拉圆角小技巧
+
+ ![img](adobe-illustrator.assets/QQ20220517-0.jpg)
+
+ ![img](adobe-illustrator.assets/QQ20220517-1.jpg)
+ 
