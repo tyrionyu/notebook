@@ -1192,3 +1192,7 @@ AI也能做印章效果，教你做出矢量的复古拓印风
 ## 版画风
 
 ![img](adobe-illustrator.assets/printmaking-style.jpg)
+
+## 鼠标滚轮即可控制虚线间距
+
+![鼠标滚轮即可控制虚线间距](adobe-illustrator.assets/eb_r.jpg)
