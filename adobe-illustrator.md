@@ -1178,4 +1178,3 @@ AI也能做印章效果，教你做出矢量的复古拓印风
  ![img](adobe-illustrator.assets/QQ20220517-0.jpg)
 
  ![img](adobe-illustrator.assets/QQ20220517-1.jpg)
- 
