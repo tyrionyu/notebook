@@ -1171,10 +1171,28 @@ AI也能做印章效果，教你做出矢量的复古拓印风
 
 *4*. 再次选择释放后的图形，右键 取消编组，即可编辑了。
 
- ![img](adobe-illustrator.assets/Shape-of-the-pattern-fill-05.jpg)
+![img](adobe-illustrator.assets/Shape-of-the-pattern-fill-05.jpg)
 
 ## 拉圆角小技巧
 
- ![img](adobe-illustrator.assets/QQ20220517-0.jpg)
+![img](adobe-illustrator.assets/QQ20220517-0.jpg)
 
- ![img](adobe-illustrator.assets/QQ20220517-1.jpg)
+![img](adobe-illustrator.assets/QQ20220517-1.jpg)
+
+## 自带线框文字
+
+![img](adobe-illustrator.assets/wireframe-text.jpg)
+
+效果转化为形状->圆角
+
+## 制作粉末文字
+
+![img](adobe-illustrator.assets/make-powder-text.jpg)
+
+## 版画风
+
+![img](adobe-illustrator.assets/printmaking-style.jpg)
+
+## 鼠标滚轮即可控制虚线间距
+
+![鼠标滚轮即可控制虚线间距](adobe-illustrator.assets/eb_r.jpg)
