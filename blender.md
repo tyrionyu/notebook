@@ -692,4 +692,10 @@ control+m(网格-交互镜像)
 
 ## 包装盒UV
 
-![image-20220405225256927](blender.assets/2022-05-25.png)
+![image-20220405225256927](blender.assets/UV-01.png)
+
+选择需要展开的边，按U，标记为缝合边，再按U，选择展开。
+
+设置里面，勾选UV实时展开,实时变化
+
+![image-20220405225256927](blender.assets/UV-02.png)
