@@ -699,3 +699,7 @@ control+m(网格-交互镜像)
 设置里面，勾选UV实时展开,实时变化
 
 ![image-20220405225256927](blender.assets/UV-02.png)
+
+## 智能UV
+
+![image-20220405225256927](blender.assets/20220531-UV.png)
