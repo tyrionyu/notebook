@@ -1196,3 +1196,15 @@ AI也能做印章效果，教你做出矢量的复古拓印风
 ## 鼠标滚轮即可控制虚线间距
 
 ![鼠标滚轮即可控制虚线间距](adobe-illustrator.assets/eb_r.jpg)
+
+## AI 拉圆角
+
+![ai 拉圆角](adobe-illustrator.assets/QQ20220603-090816.png)
+
+![ai 拉圆角](adobe-illustrator.assets/QQ20220603-090945.png)
+
+## 颜色反差效果
+
+![颜色反差](adobe-illustrator.assets/QQ20220603-092024.png)
+
+1.选择图案与文字进行编组；2.效果->路径查找器-差集
