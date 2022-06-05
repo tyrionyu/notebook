@@ -204,3 +204,39 @@ Ctrl+D 取消选区。左上角选择【编辑】-【内容识别缩放】，找
 
 原：“覆盖动作中的”打开"命令(R)”把复选框勾上；
 目标：“覆盖动作中的”存储为"命令(M)”把复选框勾上；
+
+## 证件照压缩
+
+![证件照压缩](adobe-photoshop.assets\ps-202206051313.gif)
+
+## 铅笔线稿
+
+![铅笔线稿](adobe-photoshop.assets\ps-202206051314.jpg)
+
+## 晕染字效
+
+![晕染字效](adobe-photoshop.assets\ps-202206051315.jpg)
+
+## 路径文字
+
+![晕染字效](adobe-photoshop.assets\ps-202206051316.jpg)
+
+## 文字箭头
+
+![文字箭头](adobe-photoshop.assets\ps-202206051317.jpg)
+
+## 图像颗粒效果
+
+![图像颗粒效果](adobe-photoshop.assets\ps-202206051318.jpg)
+
+## 曲线字体效果
+
+![曲线字体效果](adobe-photoshop.assets\ps-202206051319.jpg)
+
+## 水波字体效果
+
+![水波字体效果](adobe-photoshop.assets\ps-202206051320.jpg)
+
+## 网点字体效果
+
+![网点字体效果](adobe-photoshop.assets\ps-202206051321.jpg)

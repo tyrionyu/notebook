@@ -1196,3 +1196,7 @@ AI也能做印章效果，教你做出矢量的复古拓印风
 ## 鼠标滚轮即可控制虚线间距
 
 ![鼠标滚轮即可控制虚线间距](adobe-illustrator.assets/eb_r.jpg)
+
+## 环形文字
+
+![环形文字](adobe-illustrator.assets/20220605130447.png)
