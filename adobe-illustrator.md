@@ -1,5 +1,15 @@
 # adobe-illustrator 小技巧
 
+## 几何图形01
+
+![几何图形](adobe-illustrator.assets\0620153558.png)
+
+收缩与膨胀调整为负值
+
+## 几何图形02
+
+![几何图形](adobe-illustrator.assets\0620153123.png)
+
 ## 制作发散效果
 
 ![image-20210614160907937](adobe-illustrator.assets/image-20210614160907937.png)
