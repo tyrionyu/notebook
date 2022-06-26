@@ -1225,6 +1225,6 @@ AI也能做印章效果，教你做出矢量的复古拓印风
 
 ## 鱼纹
 
-![鱼纹01](adobe-illustrator.assets/2022-06-16-02.png)
+![鱼纹01](adobe-illustrator.assets/2022-06-16-02·.png)
 
 ![鱼纹02](adobe-illustrator.assets/2022-06-16-01.png)
