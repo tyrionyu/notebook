@@ -1,5 +1,9 @@
 # adobe-illustrator 小技巧
 
+## 预览边界
+
+![预览边界](adobe-illustrator.assets\20220627131817.png)
+
 ## 几何图形01
 
 ![几何图形](adobe-illustrator.assets\0620153558.png)
