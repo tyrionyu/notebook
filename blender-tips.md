@@ -128,3 +128,33 @@
 `b` 边界
 
 `i` 分离
+
+## 边线倒角与顶点倒角
+
+![倒角](blender-tips.assets/dj.png)
+
+![偏移量、深度、宽度](blender-tips.assets/dj-py-sd-kd.png)
+
+`ctrl+B` 边线倒角(1.鼠标中键调整分段数；2.按`S`移动鼠标也可以增加段数)；
+
+`ctrl+shift+b`顶点倒角
+
+`a` 调整倒角宽度
+
+`p` 形状轮廓，移动鼠标可以凸起来，或凹下去(0.25,0.25的调整)
+
+## 倒角材质编号
+
+![倒角材质编号](blender-tips.assets/dj-czbh.png)
+
+材质编号（从上到下为0、1、2...依次递增）
+
+## 倒角硬化法向
+
+![倒角法向](blender-tips.assets/dy-fx.png)
+
+![倒角法向](blender-tips.assets/dj-yhfx.png)
+
+![倒角外斜接、内部](blender-tips.assets/dj-wxj-nb.png)
+
+> 1.物体模式避免不均等缩放；2.尽量编辑模式调整形态比例；3.应用变换自救（ctrl+A）
