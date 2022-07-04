@@ -158,3 +158,28 @@
 ![倒角外斜接、内部](blender-tips.assets/dj-wxj-nb.png)
 
 > 1.物体模式避免不均等缩放；2.尽量编辑模式调整形态比例；3.应用变换自救（ctrl+A）
+
+![顶点倒角之球形化](blender-tips.assets/dj-dddj.png)
+
+## 循环切割
+
+`ALT+左键`选择循环边（开启三键模拟的双击）
+
+`CTRL+ALT+左键`选择并排边（开启三键模拟的按住ctrl+双击）
+
+`按住ctrl` 选择最短路径（选择首尾边）
+
+![循环切割](blender-tips.assets/xhqg.png)
+
+`CTRL+R` 循环切割（切割次数`滚轮`;`CTRL`吸附；`shift`微调；限定`C`或`ALT`临时切换；）
+
+![切割均匀](blender-tips.assets/qg-jy.png)
+
+## 切割与切分
+
+`K` 切割
+
+## 多边形建形工具
+
+`ctrl+单击` 创建点
+
