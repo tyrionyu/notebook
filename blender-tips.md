@@ -182,3 +182,40 @@
 ## 多边形建形工具
 
 `shift+9` 多边形建形
+
+## 旋绕和旋绕复制
+
+![旋绕](blender-tips.assets/xr.png)
+
+记得开启面朝向。
+
+![旋绕管道](blender-tips.assets/xr-gd.png)
+
+![旋绕副本](blender-tips.assets/xr-fb.png)
+
+## 平滑与随机化工具
+
+![平滑](blender-tips.assets/ph.png)
+
+`q` 打开收藏夹
+
+![平滑](blender-tips.assets/py-xg.png)
+
+![随机](blender-tips.assets/sj.png)
+
+## 顶点与线线滑移
+
+`G`边线/单顶点滑移（G+G）
+
+`shift+V` 多点顶点滑移
+
+> 滑动过程中按住`ctrl`或`shift` 可实现精准偏移或微调。
+> 另外在滑移过程不是自己相样的方向可以按`F`转换（参数中“均匀”/翻转）
+
+![滑移](blender-tips.assets/hy.png)
+
+右上角有一个合并顶点开光
+
+![滑移](blender-tips.assets/hy-uv.png)
+
+打开“校正UV”贴图会同步进行更改。
