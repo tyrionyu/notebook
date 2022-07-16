@@ -1,5 +1,37 @@
 # adobe-illustrator 小技巧
 
+## 文字有符号没法局中
+
+![预览边界](adobe-illustrator.assets/ai-a.jpg)
+
+## 色板颜色都不见了
+
+![预览边界](adobe-illustrator.assets/ai-b.jpg)
+
+## 锚点怎么都对不齐
+
+![预览边界](adobe-illustrator.assets/ai-c.jpg)
+
+## 图形不能旋转缩放
+
+![预览边界](adobe-illustrator.assets/ai-d.jpg)
+
+## 画笔工具使用不了
+
+![预览边界](adobe-illustrator.assets/ai-e.jpg)
+
+## 文字没法和图形对齐
+
+![预览边界](adobe-illustrator.assets/ai-f.jpg)
+
+## 图形只有线条没有颜色
+
+![预览边界](adobe-illustrator.assets/ai-g.jpg)
+
+## 莫名其妙的网格
+
+![预览边界](adobe-illustrator.assets/ai-h.jpg)
+
 ## 预览边界
 
 ![预览边界](adobe-illustrator.assets/20220627131817.png)
