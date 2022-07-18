@@ -214,4 +214,29 @@ rm -rf abc #删除非空目录,需谨慎删除。
 
 touch test.md #建了一个文件为test.md的空文件
 
+cp test.md bbb/ #在bbb目录下复制了一个test.md的文件。
+
+cp -r /home/bbb /opt/ #将home下的bb整个目录复制到opt(-r 递归复制整个文件夹)
+
+\cp -r /home/bbb /opt/ #强制覆盖不提示的方法。
+
+rm abc #移除文件或目录(abc可以是文件，也可以是文件夹)，删除abc目录
+
+rm test.md #删除test.md的文件（会有提示）
+
+rm -f test.md #删除不会有提示
+
+rm -rf /home/bbb #强制删除bbb整个目录不提示（强制删除不提示的方法：带上`-F`参数即可）
+
+mv oldNameFile newNameFile #移文件与目录或重命名(在同一个目录是重命名)
+
+mv /abc/ /efg # 这个移动整个目录
+
+mv pig.txt /root/cow.txt #移动+重命名
+
+cat pig.txt #查看文件内容，只能浏览文件，不能修改文件
+
+cat -n /etc/profile #查看profile文件并显示行号（`-n`是否显示行号）为了浏览方便，使用管道命令`|more`
+
+cat -n /etc/profile ｜more #进行次互，`空格`向下翻一页，`enter`下一行，`q`立即离开，不再显示内容，`ctrl+F`向下滚动一屏，`ctrl+B`返回上一屏，`=`输出当前行的行号，`:f`输出文件名和当前行的行号。
 ```
