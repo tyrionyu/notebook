@@ -239,4 +239,31 @@ cat pig.txt #查看文件内容，只能浏览文件，不能修改文件
 cat -n /etc/profile #查看profile文件并显示行号（`-n`是否显示行号）为了浏览方便，使用管道命令`|more`
 
 cat -n /etc/profile ｜more #进行次互，`空格`向下翻一页，`enter`下一行，`q`立即离开，不再显示内容，`ctrl+F`向下滚动一屏，`ctrl+B`返回上一屏，`=`输出当前行的行号，`:f`输出文件名和当前行的行号。
+
+less /opt/杂文.txt #分屏查看文件内容(查看较大的文件)
+
+echo $HOSTNAME #输出内容到控制台
+
+echo "hello,world~"
+
+head -n 5 /etc/profile # 显示文件的开头部分内容
+
+tail -n 5 /etc/profile #显示文件尾部内容
+
+tail -f mydate.txt #实时追综文件变化
+
+echo "hello" > /home/mydate.txt #内容会覆盖
+
+ls -l > abc.txt #内容覆盖
+
+ls -al >> def.txt #追加到文件
+
+cat 文件1 > 文件2 #文件1的内容会覆盖到文件2
+
+ls -l /home > /home/info.txt #如果info.txt文件不存在，会创建info.txt文件。
+
+cal #显示日历
+
+cal >> /home/mycal #追加了日期
+
 ```
