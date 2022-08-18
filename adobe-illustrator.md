@@ -1,5 +1,60 @@
 # adobe-illustrator 小技巧
 
+## 包装印刷
+
+1. **前言**
+
+    许多同学在包装设计印刷落地的过程中经常会出现各种细节问题，所以刺猬老师和志鸿，针对印刷落地的全流程，整理了印前、印中、印后相关的常见注意事项。
+
+2. **基础概念**
+
+    印前：印刷前期的工作，一般是设计、排版等；
+    印中：印刷中期的工作，印刷机印出成品的过程；
+    印后：印刷后期的工作，印刷品的后加工，包括烫金、击凸、覆膜等等。
+
+3. **重点知识**
+
+    印前
+
+    文字必须转曲或描外框；根据需求选择纸张材质；印刷文件必须设计出血；印刷文件重尺寸标注准确；线条粗细不小于0.1mm；印刷文件需为CMYK色彩；底纹色彩不低于10%；印前需做色彩校正。
+
+    印中
+
+    油墨的质量决定耐光度;印刷色差度控制10%以内；油墨浓度可酌情加大；印刷流动度需适度；故障位置需放警示标注;供墨量、上水量需稳定状态。
+
+接下来，一起通过图文的形式来看一看。
+
+![包装](adobe-illustrator.assets/bz-a.jpeg)
+![包装](adobe-illustrator.assets/bz-01.jpeg)
+![包装](adobe-illustrator.assets/bz-02.jpeg)
+![包装](adobe-illustrator.assets/bz-03.jpeg)
+![包装](adobe-illustrator.assets/bz-04.jpeg)
+![包装](adobe-illustrator.assets/bz-05.jpeg)
+![包装](adobe-illustrator.assets/bz-06.jpeg)
+![包装](adobe-illustrator.assets/bz-07.jpeg)
+![包装](adobe-illustrator.assets/bz-08.jpeg)
+![包装](adobe-illustrator.assets/bz-b.jpeg)
+![包装](adobe-illustrator.assets/bz-09.jpeg)
+![包装](adobe-illustrator.assets/bz-10.jpeg)
+![包装](adobe-illustrator.assets/bz-11.jpeg)
+![包装](adobe-illustrator.assets/bz-12.jpeg)
+![包装](adobe-illustrator.assets/bz-13.jpeg)
+![包装](adobe-illustrator.assets/bz-14.jpeg)
+![包装](adobe-illustrator.assets/bz-c.jpeg)
+![包装](adobe-illustrator.assets/bz-15.jpeg)
+![包装](adobe-illustrator.assets/bz-16.jpeg)
+![包装](adobe-illustrator.assets/bz-17.jpeg)
+![包装](adobe-illustrator.assets/bz-18.jpeg)
+![包装](adobe-illustrator.assets/bz-19.jpeg)
+
+**总结** 重点知识再总结一下
+
+    > 印前
+    文字必须转曲或描外框；根据需求选择纸张材质；印刷文件必须设计出血；印刷文件重尺寸标注准确；线条粗细不小于0.1mm；印刷文件需为CMYK色彩；底纹色彩不低于10%；印前需做色彩校正。
+
+    > 印中
+    油墨的质量决定耐光度;印刷色差度控制10%以内；油墨浓度可酌情加大；印刷流动度需适度；故障位置需放警示标注;供墨量、上水量需稳定状态。
+
 ## 标题文本快速转段落文本
 
 段落文本和标题文本是文字排版中经常用到的 2 种形式，那你知道快速切换 2 种文本形式的方法吗？其实非常简单：直接选中原来的文本框，将鼠标悬浮到在文本框右侧中间凸出的小端点上，出现带 **「T」** 的小标记时快速双击鼠标左键，就可以直接将标题文本变成段落文本了，使用相同的方法也能将段落文本快速切换为标题文本。
