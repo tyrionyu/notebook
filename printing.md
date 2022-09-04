@@ -1,5 +1,29 @@
 # 关于印刷知识
 
+## 如何在 PS 中找到对应的潘通色号？
+
+很多人都想尝试在项目中应用年度流行的潘通色，那如何在 PS 中找到对应的色号呢？
+
+今天分享 2 个小工具和在 PS 找到潘通色的方法！如何用好这些颜色就靠你自己了图片
+
+![潘通色号](printing-check.assets/pt-a.png)
+
+![潘通色号](printing-check.assets/pt-b.png)
+
+![潘通色号](printing-check.assets/pt-c.png)
+
+![潘通色号](printing-check.assets/pt-d.png)
+
+![潘通色号](printing-check.assets/pt-e.png)
+
+![潘通色号](printing-check.assets/pt-f.png)
+
+![潘通色号](printing-check.assets/pt-g.png)
+
+![潘通色号](printing-check.assets/pt-h.png)
+
+![潘通色号](printing-check.assets/pt-i.png)
+
 ## 印前检查
 
 ### 文字图形
