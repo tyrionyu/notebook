@@ -1,8 +1,8 @@
 # Blender
 
-## 仅影象原点
+## 仅影响原点
 
-![仅影象原点](blender.assets/7ce.png)
+![仅影象原点](blender.assets/7CE.png)
 ctrl+.
 
 ## 常用编辑快捷键
