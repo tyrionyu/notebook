@@ -1,5 +1,17 @@
 # 关于印刷知识
 
+## 包装材质
+
+![包装材质](printing-check.assets/Packaging-01.jpg)
+![包装材质](printing-check.assets/Packaging-02.jpg)
+![包装材质](printing-check.assets/Packaging-03.jpg)
+![包装材质](printing-check.assets/Packaging-04.jpg)
+![包装材质](printing-check.assets/Packaging-05.jpg)
+![包装材质](printing-check.assets/Packaging-06.jpg)
+![包装材质](printing-check.assets/Packaging-07.jpg)
+![包装材质](printing-check.assets/Packaging-08.jpg)
+![包装材质](printing-check.assets/Packaging-09.jpg)
+
 ## 如何在 PS 中找到对应的潘通色号？
 
 很多人都想尝试在项目中应用年度流行的潘通色，那如何在 PS 中找到对应的色号呢？
