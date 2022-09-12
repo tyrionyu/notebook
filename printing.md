@@ -1,6 +1,5 @@
 # 关于印刷知识
 
-<<<<<<< HEAD
 ## 包装印刷
 
 1. **前言**
@@ -56,7 +55,6 @@
     > 印中
     油墨的质量决定耐光度;印刷色差度控制10%以内；油墨浓度可酌情加大；印刷流动度需适度；故障位置需放警示标注;供墨量、上水量需稳定状态。
 
-=======
 ## 包装材质
 
 ![包装材质](printing-check.assets/Packaging-01.jpg)
@@ -68,7 +66,6 @@
 ![包装材质](printing-check.assets/Packaging-07.jpg)
 ![包装材质](printing-check.assets/Packaging-08.jpg)
 ![包装材质](printing-check.assets/Packaging-09.jpg)
->>>>>>> f5905b0f5be00ece458042ad9becbf0034050bc1
 
 ## 如何在 PS 中找到对应的潘通色号？
 
