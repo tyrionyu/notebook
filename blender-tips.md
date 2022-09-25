@@ -198,7 +198,7 @@
 
 ![循环切割](blender-tips.assets/xhqg.png)
 
-`CTRL+R` 循环切割（切割次数`滚轮`;`CTRL`吸附；`shift`微调；限定`C`或`ALT`临时切换；）
+`CTRL+R` 循环切割（`ctrl+R`后通过滚动滚轮增加切割次数`滚轮`;`CTRL`吸附；`shift`微调；限定`C`或`ALT`临时切换；）
 
 ![切割均匀](blender-tips.assets/qg-jy.png)
 
