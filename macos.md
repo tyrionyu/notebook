@@ -59,7 +59,7 @@ vim hello-world.md `#打开编辑hello-world文件`
 
 `brew install 应用名`
 
-### 应用Homebrew Cask 安装 Mac App 
+### 应用Homebrew Cask 安装 Mac App
 
 - `brew cask install atom`
 - `brew cask install 应用名称`
