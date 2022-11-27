@@ -259,12 +259,25 @@
     选中临时失效的节点，按 `M`键。
 15. `command+j`可以把一些节点组合在一起
 
+## 灯光
+
+图案灯光，关键词搜索“leaf gobo texture”
+![图案灯光](blender.assets/leaf%20gobo%20texture.png)
+
 ## 插件
 
-* `import-Export:import image as planes`
-* 插件"COPY“复制属性菜单(Copy attributes menu),`Control+C`对齐物体,选中两个要对齐的物体。ctrl+c 会弹出菜单。选择对齐到位置就可以对齐了。（会按先选中的那个对象为基准对齐）位置信息可以复制，缩放值，还有旋转也都可以复制。
-* 编辑器全部应用插件“interface tools”
-* 动态上下文插件：“Dynamic Context Menu”和"Modifier Tools"
+* 导入-导出：import image as planes
+* 界面:Copy Attributes Menu
+* 界面：Dynamic Context Menu；动态上下文插件
+* 界面:Modifier Tools；编辑器全部应用插件
+* 添加网格:A.N.T LANDSCAPE；地形工具
+* 图像绘制:Paint Paltttes
+* 物体:Bool Tool
+* 网格:3D-Print Toolbox
+* 网格:Edit Mesh Tools
+* 网格:F2
+* 网格:LoopTools
+* 网格:tinyCAD Mesh tools
 
 ## 配置Blender
 
