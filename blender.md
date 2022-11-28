@@ -123,6 +123,10 @@
 2. `alt+s` 缩放归零
 3. `alt+r` 旋转归零
 
+输入`GZ1`对像会往Z轴输入上移1m。
+
+输入`S2`对像会放大2倍
+
 ## 建模
 
 切换模式 `ctrl+tab`
@@ -267,11 +271,13 @@
     ![image-20220405225256927](blender.assets/image-20220405225256927.png)
     选中临时失效的节点，按 `M`键。
 15. `command+j`可以把一些节点组合在一起
+16. `shift+右键（划一下）`可局座在那个线上增加一个节点
+17. 选中一个节点按`H`该节点会折叠起来。
 
 ## 灯光
 
 图案灯光，关键词搜索“leaf gobo texture”
-![图案灯光](blender.assets/leaf%20gobo%20texture.png)
+![图案灯光](blender.assets/leaf-gobo-texture.png)
 
 ## 插件
 
@@ -799,7 +805,7 @@ control+m(网格-交互镜像)
 * 全选点，`m`按距离合并。
 * `alt+s` 法线缩放
 * `ctrl+A` 应用，全部变化
-* Blender 单位是M，要注意缩放
+* Blender 单位是M，要注意缩放，输入值是可以在数据后面带单位。也可以输入基于Python的数学表达式。
 * `shift+右键` 可以改变浏标的位置
 * `shift+右键` 不放拖动游标
 * 游标在哪，新建的物体放会在哪，定位操作轴心。
@@ -868,13 +874,13 @@ control+m(网格-交互镜像)
 
 ## 快捷键大全图
 
-![01](blender.assets/blender-快捷键01.jpeg)
+![01](blender.assets/blender-kjj01.jpeg)
 
-![02](blender.assets/blender-快捷键02.jpeg)
+![02](blender.assets/blender-kjj02.jpeg)
 
-![03](blender.assets/blender-快捷键03.jpeg)
+![03](blender.assets/blender-kjj03.jpeg)
 
-![04](blender.assets/blender-快捷键04.jpeg)
+![04](blender.assets/blender-kjj04.jpeg)
 
 ## 教程推荐
 
