@@ -127,6 +127,12 @@
 
 输入`S2`对像会放大2倍
 
+输入`S1/2`会缩小到一半
+
+输入`S0.9`会缩小一点点
+
+输入`S1/3`会缩小到1/3倍
+
 ## 建模
 
 切换模式 `ctrl+tab`
@@ -289,6 +295,7 @@
 * 添加网格:A.N.T LANDSCAPE；地形工具
 * 图像绘制:Paint Paltttes
 * 物体:Bool Tool
+* 物体:Align Tools;对齐插件
 * 网格:3D-Print Toolbox
 * 网格:Edit Mesh Tools
 * 网格:F2
