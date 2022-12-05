@@ -288,7 +288,7 @@
 ## 灯光
 
 图案灯光，关键词搜索“leaf gobo texture”
-![图案灯光](blender.assets/leaf-gobo-texture.png)
+![图案灯光](blender.assets/leaf.png)
 
 ## 插件
 
