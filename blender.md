@@ -277,7 +277,7 @@
 ## 灯光
 
 图案灯光，关键词搜索“leaf gobo texture”
-![图案灯光](blender.assets/leaf-gobo-texture.png)
+![图案灯光](blender.assets/leaf.png)
 
 ## 插件
 
@@ -321,7 +321,7 @@
 
 ## 仅影响原点
 
-![仅影象原点](blender.assets/7CE.png)
+![仅影响原点](blender.assets/7CE.png)
 ctrl+.
 
 ## 常用编辑快捷键
