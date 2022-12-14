@@ -1361,7 +1361,7 @@ AI也能做印章效果，教你做出矢量的复古拓印风
 
 ## 自带线框文字
 
-![img](adobe-illustrator.assets/wireframe-text.jpg)
+![img](adobe-illustrator.assets/wireframetext.jpg)
 
 效果转化为形状->圆角
 
