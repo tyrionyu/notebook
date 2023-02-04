@@ -196,3 +196,85 @@ ctrl+`
 `Windows+D`——返回桌面（办公室保命技）
 
 `Windows+E`——打开“我的电脑”（天天用）
+
+## 实用技巧
+
+> 花了一天时间，整理了这份超实用 100+Excel 快捷键和实用技巧大全。文末有文本版汇总！一、办公常用的 7 大技…
+
+花了一天时间，整理了这份超实用 **100+Excel 快捷键和实用技巧大全。**
+
+### 文本型数字隐藏的秘密
+
+![文本型数字](office.assets/v2-a6cbf3520efd37a1b5469ea1e4747b92_r.jpg)
+
+### 大小写转换技巧
+
+![大小写转换](office.assets/v2-38271a90caaf239513262aed8ff2feb5_r.jpg)
+
+### 字符串合并技巧
+
+![字符串合并](office.assets/v2-308a216f81ef9cd1591014531912e2c9_r.jpg)
+
+### 日期时间转换技巧
+
+![日期时间转换](office.assets/v2-6365f1008864b72316a503e8a7e48e46_r.jpg)
+
+### 数字格式转换
+
+![数字格式转换](office.assets/v2-8367ff0d630d29900156f16a530a6b33_r.jpg)
+
+### 显示系统时间或日期
+
+![显示系统时间或日期](office.assets/v2-3a7596599940663bdf177d844b1067e5_r.jpg)
+
+### 隐藏行或列
+
+![隐藏行或列](office.assets/v2-a56ee49a105deff241ee241ebf045062_r.jpg)
+
+### 选择数据
+
+![选择数据](office.assets/v2-3b8c5627d2a97111c22f271c24124365_r.jpg)
+
+### 显示对话框
+
+![显示对齐框](office.assets/v2-2b13a2d12f338724e19adf5112646a4f_r.jpg)
+
+### 编辑数据
+
+![编辑数据](office.assets/v2-5d1413610f71ef7c6ef40edd4e7aeced_r.jpg)
+
+### 将文字颠倒顺序
+
+![将文字颠倒顺序](office.assets/v2-9a5f00f676569649caba930b3e547899_720w.gif)
+
+复制正常顺序对象→在字体前加 @→点击向下旋转文字→点击自动换行
+
+### 制作打钩方框
+
+![制作打钩方框](office.assets/v2-da2a293ff4a0ce381e330b027321e08e_720w.gif)
+
+输入 "R"→设置字体为 Wingdings2
+
+### 用斜线分割单个单元格
+
+![用斜线分割单个单元格](office.assets/v2-0af41da9f454efee846aa02fec53d6c3_720w.gif)
+
+选中对象→插入形状（直线）→ALT + 鼠标 快速定位单元格边角→F4 重复动作，添加分割线→插入文本框→调整字体
+
+### 隐藏不需要显示区域
+
+![隐藏不需要显示区域](office.assets/v2-e4203c74911c4f40c122d7090967dd1d_720w.gif)
+
+选中对象→Ctrl+1→点击自定义→输入；；；
+
+### 分段显示手机号码
+
+![分段显示手机号码](office.assets/v2-e81ee1ffe72fdd424fee71fdc6c243cc_720w.gif)
+
+选中号码→Ctrl+1→点击自定义→输入 000-0000-0000
+
+### 数据以万为单位显示
+
+![数据以万为单位显示](office.assets/v2-e630f61a22fba87648406badc9cbca57_720w.gif)
+
+选中对象→Ctrl+1→点击自定义→输入 0！.0,"万"
