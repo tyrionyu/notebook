@@ -413,6 +413,12 @@ preferences.view.use_translate_interface
 
 ![设置语言](blender.assets/setting.png)
 
+## 钩持修改器
+
+在编辑模式下，选择一些顶点后，按`control+h`这样这些顶点就在钩挂上了，可调整钩挂的形状。
+
+![image-20230205180155552](blender.assets/image-20230205180155552.png)
+
 ## Compositing 视图中
 
 勾选`使用节点`，另外按`control+shift+单击`可以把渲染快层和节点分开。增加颜色RGB曲线，调整颜色。选择RGB曲线，按`M`可暂时关闭预览。看效果图。
