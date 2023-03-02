@@ -1,5 +1,9 @@
 # adobe-illustrator 小技巧
 
+## 画边框
+
+![image-20230302225708479](adobe-illustrator.assets/image-20230302225708479.png)
+
 ## 折角
 
 ![img](adobe-illustrator.assets/fy.jpg)
