@@ -1,6 +1,6 @@
 # adobe-illustrator 小技巧
 
-## 画边框
+## 回形纹的画法
 
 ![image-20230302225708479](adobe-illustrator.assets/image-20230302225708479.png)
 
