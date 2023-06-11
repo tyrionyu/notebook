@@ -8,7 +8,7 @@
 
 当你分配一个文件夹名称从零开始的文件夹名称，如“010”或“020” **三位数字** 添加到文件夹名称前，效率是大大的提高。
 
-![文件夹名中添加一个三位数字](file-tips.assets/file-tips3.png)
+![文件夹名中添加一个三位数字](files.assets/file-tips3.png)
 
 为什么是三位数而不是两位数呢？
 
@@ -20,21 +20,21 @@
 
 **另外可以建一个名为`099-others`文件夹用于存储临时文件。**用于远离主要文件夹。
 
-![文件夹名中添加一个三位数字](file-tips.assets/file-tips8.png)
+![文件夹名中添加一个三位数字](files.assets/file-tips8.png)
 
 ## TIP3：减少折叠文件夹的数量
 
 文件夹里文件夹数量一些问题，如果文件夹内有10〜20个文件夹或更多的文件夹时，不友好，也不好管理。
 
-![减少折叠文件夹的数量01](file-tips.assets/file-tips1.png)
+![减少折叠文件夹的数量01](files.assets/file-tips1.png)
 
 在这种情况下，我们可以创建一个名为“-OLD”的文件夹存储旧文件低使用率的文件夹
 
-![减少折叠文件夹的数量02](file-tips.assets/file-tips2.png)
+![减少折叠文件夹的数量02](files.assets/file-tips2.png)
 
 另外常用的文件可以在文件夹名前面加一个 **`★`**。这样更容易看到**最常用的文件夹**
 
-![减少折叠文件夹的数量03](file-tips.assets/file-tips4.png)
+![减少折叠文件夹的数量03](files.assets/file-tips4.png)
 
 ## TIP4：在侧栏创建快捷方式
 
@@ -74,15 +74,15 @@
     * 描述：对文件内容的附加描述。
     * 序列号：版本号、序号。
 
-![减少折叠文件夹的数量03](file-tips.assets/file-tips6.png)
+![减少折叠文件夹的数量03](files.assets/file-tips6.png)
 
 以一个PSD为例，命名里面包含了客户名，项目名，项目类型和版本号：
 
-![减少折叠文件夹的数量03](file-tips.assets/file-tips7.jpg)
+![减少折叠文件夹的数量03](files.assets/file-tips7.jpg)
 
 而图片和故事板也采用了类似的方式，在项目类型后面还加上了素材和资源的类型：
 
-![减少折叠文件夹的数量03](file-tips.assets/file-tips5.jpg)
+![减少折叠文件夹的数量03](files.assets/file-tips5.jpg)
 
 ## TIP7：重复项目
 

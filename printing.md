@@ -26,34 +26,34 @@
 
 ### 印前工作
 
-![包装](printing-check.assets/bz-a.jpeg)
-![包装](printing-check.assets/bz-01.jpeg)
-![包装](printing-check.assets/bz-02.jpeg)
-![包装](printing-check.assets/bz-03.jpeg)
-![包装](printing-check.assets/bz-04.jpeg)
-![包装](printing-check.assets/bz-05.jpeg)
-![包装](printing-check.assets/bz-06.jpeg)
-![包装](printing-check.assets/bz-07.jpeg)
-![包装](printing-check.assets/bz-08.jpeg)
+![包装](printing.assets/bz-a.jpeg)
+![包装](printing.assets/bz-01.jpeg)
+![包装](printing.assets/bz-02.jpeg)
+![包装](printing.assets/bz-03.jpeg)
+![包装](printing.assets/bz-04.jpeg)
+![包装](printing.assets/bz-05.jpeg)
+![包装](printing.assets/bz-06.jpeg)
+![包装](printing.assets/bz-07.jpeg)
+![包装](printing.assets/bz-08.jpeg)
 
 ### 印中工作
 
-![包装](printing-check.assets/bz-b.jpeg)
-![包装](printing-check.assets/bz-09.jpeg)
-![包装](printing-check.assets/bz-10.jpeg)
-![包装](printing-check.assets/bz-11.jpeg)
-![包装](printing-check.assets/bz-12.jpeg)
-![包装](printing-check.assets/bz-13.jpeg)
-![包装](printing-check.assets/bz-14.jpeg)
+![包装](printing.assets/bz-b.jpeg)
+![包装](printing.assets/bz-09.jpeg)
+![包装](printing.assets/bz-10.jpeg)
+![包装](printing.assets/bz-11.jpeg)
+![包装](printing.assets/bz-12.jpeg)
+![包装](printing.assets/bz-13.jpeg)
+![包装](printing.assets/bz-14.jpeg)
 
 ### 印后工作
 
-![包装](printing-check.assets/bz-c.jpeg)
-![包装](printing-check.assets/bz-15.jpeg)
-![包装](printing-check.assets/bz-16.jpeg)
-![包装](printing-check.assets/bz-17.jpeg)
-![包装](printing-check.assets/bz-18.jpeg)
-![包装](printing-check.assets/bz-19.jpeg)
+![包装](printing.assets/bz-c.jpeg)
+![包装](printing.assets/bz-15.jpeg)
+![包装](printing.assets/bz-16.jpeg)
+![包装](printing.assets/bz-17.jpeg)
+![包装](printing.assets/bz-18.jpeg)
+![包装](printing.assets/bz-19.jpeg)
 
 **总结** 重点知识再总结一下
 
@@ -65,15 +65,15 @@
 
 ## 包装材质
 
-![包装材质](printing-check.assets/Packaging-01.jpg)
-![包装材质](printing-check.assets/Packaging-02.jpg)
-![包装材质](printing-check.assets/Packaging-03.jpg)
-![包装材质](printing-check.assets/Packaging-04.jpg)
-![包装材质](printing-check.assets/Packaging-05.jpg)
-![包装材质](printing-check.assets/Packaging-06.jpg)
-![包装材质](printing-check.assets/Packaging-07.jpg)
-![包装材质](printing-check.assets/Packaging-08.jpg)
-![包装材质](printing-check.assets/Packaging-09.jpg)
+![包装材质](printing.assets/Packaging-01.jpg)
+![包装材质](printing.assets/Packaging-02.jpg)
+![包装材质](printing.assets/Packaging-03.jpg)
+![包装材质](printing.assets/Packaging-04.jpg)
+![包装材质](printing.assets/Packaging-05.jpg)
+![包装材质](printing.assets/Packaging-06.jpg)
+![包装材质](printing.assets/Packaging-07.jpg)
+![包装材质](printing.assets/Packaging-08.jpg)
+![包装材质](printing.assets/Packaging-09.jpg)
 
 ## 印前检查
 
@@ -353,15 +353,15 @@ JPG和TIFF格式支持CMYK模式，而PNG和GIF不支持。
 
 网点指的就是这个点。
 
-![网点](printing-check.assets/a01.jpeg)
+![网点](printing.assets/a01.jpeg)
 
 ### 实地
 
 指100%的无网点。
 
-![实地](printing-check.assets/a02.jpg)
+![实地](printing.assets/a02.jpg)
 
-![实地](printing-check.assets/a03.jpg)
+![实地](printing.assets/a03.jpg)
 
 ### 叠印
 
@@ -373,7 +373,7 @@ JPG和TIFF格式支持CMYK模式，而PNG和GIF不支持。
 
 所以叠印后原有的颜色会发生变化。
 
-![叠印](printing-check.assets/a04.jpg)
+![叠印](printing.assets/a04.jpg)
 
 ### 套印
 
@@ -381,7 +381,7 @@ JPG和TIFF格式支持CMYK模式，而PNG和GIF不支持。
 
 使用不同颜色准确的叠在一起印刷。
 
-![套印](printing-check.assets/a05.jpg)
+![套印](printing.assets/a05.jpg)
 
 ### 露白
 
@@ -389,7 +389,7 @@ JPG和TIFF格式支持CMYK模式，而PNG和GIF不支持。
 
 位置不准确，导致出现白边。
 
-![露白](printing-check.assets/a06.jpg)
+![露白](printing.assets/a06.jpg)
 
 ### 爆肥
 
@@ -399,7 +399,7 @@ JPG和TIFF格式支持CMYK模式，而PNG和GIF不支持。
 
 增大印刷范围，也叫爆边。
 
-![爆肥](printing-check.assets/a07.jpg)
+![爆肥](printing.assets/a07.jpg)
 
 ### 墨屎
 
@@ -429,55 +429,55 @@ JPG和TIFF格式支持CMYK模式，而PNG和GIF不支持。
 
 今天分享 2 个小工具和在 PS 找到潘通色的方法！如何用好这些颜色就靠你自己了图片
 
-![潘通色号](printing-check.assets/pt-a.png)
+![潘通色号](printing.assets/pt-a.png)
 
-![潘通色号](printing-check.assets/pt-b.png)
+![潘通色号](printing.assets/pt-b.png)
 
-![潘通色号](printing-check.assets/pt-c.png)
+![潘通色号](printing.assets/pt-c.png)
 
-![潘通色号](printing-check.assets/pt-d.png)
+![潘通色号](printing.assets/pt-d.png)
 
-![潘通色号](printing-check.assets/pt-e.png)
+![潘通色号](printing.assets/pt-e.png)
 
 [在线工具A：查找匹配最接近的潘通色号](https://www.kmhpromo.com/cmyk_to_pms/)
 
-![潘通色号](printing-check.assets/pt-f.png)
+![潘通色号](printing.assets/pt-f.png)
 
 [在线工具B：查找匹配最接近的潘通色号](https://www.qtccolor.com/secaiku/Color/6360)
 
-![潘通色号](printing-check.assets/pt-g.png)
+![潘通色号](printing.assets/pt-g.png)
 
-![潘通色号](printing-check.assets/pt-h.png)
+![潘通色号](printing.assets/pt-h.png)
 
-![潘通色号](printing-check.assets/pt-i.png)
+![潘通色号](printing.assets/pt-i.png)
 
 ## 保护性工艺
 
 ### 覆膜
 
-![覆膜](printing-check.assets/fm.jpg)
+![覆膜](printing.assets/fm.jpg)
 
 ### 上光
 
-![上光](printing-check.assets/sg.jpg)
+![上光](printing.assets/sg.jpg)
 
 ### 压光
 
-![压光](printing-check.assets/yg.jpg)
+![压光](printing.assets/yg.jpg)
 
 ### 逆向UV
 
-![逆向UV](printing-check.assets/nxuv.jpg)
+![逆向UV](printing.assets/nxuv.jpg)
 
 ## 装饰性工艺
 
 ### 局部UV
 
-![局部UV](printing-check.assets/jbuv.jpg)
+![局部UV](printing.assets/jbuv.jpg)
 
 ### 烫印(烫电化铝)
 
-![烫印](printing-check.assets/ty.jpg)
+![烫印](printing.assets/ty.jpg)
 
 ### 压凹凸
 

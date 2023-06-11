@@ -5,7 +5,7 @@
 win10保存文件时出现你没有权限在此位置中保存文件，请与管理员联系获得相应权限。
 在开始菜单中打开运行命令，输入`gpedit.msc`
 
-![img](microsoft-windows10.assets/22.png)
+![img](windows.assets/22.png)
 
 ## windows 10 安装
 
