@@ -144,6 +144,14 @@ ctrl+`
 
 #### 一、Vlookup
 
+![Vlookup](office.assets/image-20230630075019198.png)
+
+![三兄弟 ](office.assets/image-20230630080324738.png)
+
+![好搭档](office.assets/image-20230630082839490.png)
+
+![查名细](office.assets/image-20230630083101113.png)
+
 #### 二、数据透视表(横竖就是要汇总)
 
 > 手工——公式——透视表
