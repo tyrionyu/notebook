@@ -1,6 +1,6 @@
 # Offfice 技巧
 
-## Excel 10种不合理设计
+## 十种不合理设计
 
 1. 多余的表头（标题位置不合适）；
 
@@ -47,7 +47,7 @@
     >
 10. 分类汇总变成手工活儿
 
-## Excel小技巧
+## 小技巧
 
 ### 右键按月填充
 
@@ -151,6 +151,16 @@ ctrl+`
 ![好搭档](office.assets/image-20230630082839490.png)
 
 ![查名细](office.assets/image-20230630083101113.png)
+
+![多条件](office.assets/image-20230630203408112.png)
+
+![定级别](office.assets/image-20230630203750572.png)
+
+![个税](office.assets/image-20230630211721726.png)
+
+![突破限制匹配多个相同项目](office.assets/image-20230630212507864.png)
+
+![提取透视表父级汇总数](office.assets/image-20230630215436992.png)
 
 #### 二、数据透视表(横竖就是要汇总)
 
