@@ -1,5 +1,15 @@
 # adobe-illustrator 小技巧
 
+## 复古边框
+
+![image-20230806072425605](adobe-illustrator.assets/image-20230806072425605.png)
+
+## 自动边框
+
+1. 窗口菜单，外观面板；
+2. 添加新描边
+3. 效果-转换为形状-选择“圆角矩形”
+
 ## 峰窝图案
 
 ![image-20230805225305542](adobe-illustrator.assets/image-20230805225305542.png)
