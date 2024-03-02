@@ -546,3 +546,11 @@ ctrl+`
 ## 库存管理系统
 
 ![image-20231111085354147](office.assets/image-20231111085354147.png)
+
+## 批量调整表格行高列宽
+
+![image-20240221082537582](office.assets/image-20240221082537582.png)
+
+![image-20240221082602451](office.assets/image-20240221082602451.png)
+
+列宽同理
