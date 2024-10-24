@@ -1,4 +1,6 @@
 # adobe-illustrator 小技巧
+## 飘带
+![飘带](adobe-illustrator.assets/piaodai.png)
 ## 混合
 1、ctrl+alt+b
 2、按w；enter
