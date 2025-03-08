@@ -229,6 +229,6 @@ OK，那我们先随意跟GPT聊点什么，正式认识下：
 
 ## ChatGPT能帮我们做的66+件事 
 
-![image-20250305150839177](DeepSeek.assets\image-20250305150839177.png)
+![image-20250305150839177](DeepSeek.assets/image-20250305150839177.png)
 
-![image-20250305150846792](DeepSeek.assets\image-20250305150846792.png)
+![image-20250305150846792](DeepSeek.assets/image-20250305150846792.png)
