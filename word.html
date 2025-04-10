@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>3D单词记忆卡</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            font-family: 'Segoe UI', Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .card-container {
+            perspective: 1000px;
+            width: 400px;
+            height: 250px;
+            margin: 50px 0;
+        }
+
+        .card {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            transform-style: preserve-3d;
+            transition: all 0.6s ease;
+            cursor: pointer;
+        }
+
+        .card.flipped {
+            transform: rotateY(180deg);
+        }
+
+        .card-face {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background: white;
+        }
+
+        .front {
+            font-size: 2.2em;
+            color: #2c3e50;
+        }
+
+        .back {
+            transform: rotateY(180deg);
+            background: #2c3e50;
+            color: white;
+        }
+
+        .word-info {
+            text-align: center;
+        }
+
+        .translation {
+            font-size: 1.8em;
+            margin-bottom: 15px;
+        }
+
+        .example {
+            font-size: 1.1em;
+            color: #bdc3c7;
+        }
+
+        button {
+            padding: 12px 30px;
+            font-size: 1.1em;
+            background: #3498db;
+            color: white;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-top: 20px;
+        }
+
+        button:hover {
+            background: #2980b9;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+
+        @media (max-width: 480px) {
+            .card-container {
+                width: 90%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="card-container">
+        <div class="card" onclick="this.classList.toggle('flipped')">
+            <div class="card-face front">
+                <span class="word">January</span>
+            </div>
+            <div class="card-face back">
+                <div class="word-info">
+                    <div class="translation">月</div>
+                    <div class="example">例句：January is the first month of the year.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <button onclick="randomCard()">随机切换 (24词)</button>
+
+    <script>
+        const words = [
+            {word: "January", trans: "一月", example: "January is the first month of the year."},
+            {word: "February", trans: "二月", example: "Valentine's Day is in February."},
+            {word: "March", trans: "三月", example: "Spring begins in March."},
+            {word: "April", trans: "四月", example: "April showers bring May flowers."},
+            {word: "May", trans: "五月", example: "May Day is on May 1st."},
+            {word: "June", trans: "六月", example: "Summer starts in June."},
+            {word: "July", trans: "七月", example: "Independence Day is in July."},
+            {word: "August", trans: "八月", example: "August is the hottest month here."},
+            {word: "September", trans: "九月", example: "School starts in September."},
+            {word: "October", trans: "十月", example: "Halloween is in October."},
+            {word: "November", trans: "十一月", example: "Thanksgiving is in November."},
+            {word: "December", trans: "十二月", example: "Christmas is in December."},
+            {word: "season", trans: "四季", example: "There are four seasons in a year."},
+            {word: "high noon", trans: "正午", example: "We'll meet at high noon."},
+            {word: "A.M.", trans: "上午", example: "The meeting starts at 9 A.M."},
+            {word: "morning", trans: "上午", example: "I exercise every morning."},
+            {word: "P.M.", trans: "下午", example: "The movie starts at 3 P.M."},
+            {word: "afternoon", trans: "下午", example: "Let's have tea in the afternoon."},
+            {word: "yesterday", trans: "昨天", example: "Yesterday was Wednesday."},
+            {word: "tomorrow", trans: "明天", example: "Tomorrow will be Friday."},
+            {word: "spring", trans: "春天", example: "Cherry blossoms bloom in spring."},
+            {word: "summer", trans: "夏天", example: "We go swimming in summer."},
+            {word: "fall", trans: "秋天", example: "Leaves change color in fall."},
+            {word: "winter", trans: "冬天", example: "It snows in winter."}
+        ];
+
+        function randomCard() {
+            const card = document.querySelector('.card');
+            const front = card.querySelector('.front');
+            const back = document.querySelector('.back');
+            const randomWord = words[Math.floor(Math.random() * words.length)];
+            
+            card.classList.remove('flipped');
+            setTimeout(() => {
+                front.innerHTML = `<span class="word">${randomWord.word}</span>`;
+                back.querySelector('.translation').textContent = randomWord.trans;
+                back.querySelector('.example').textContent = randomWord.example;
+            }, 300);
+        }
+
+        // 初始化第一个单词
+        randomCard();
+    </script>
+</body>
+</html>
