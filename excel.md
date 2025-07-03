@@ -534,3 +534,49 @@ a4+a5=1
 ![image-20250701075928661](excel.assets/image-20250701075928661.png)
 
 一个公式可以包含多个函数。
+
+### 公式主要用途
+
+![image-20250702194110395](excel.assets/image-20250702194110395.png)
+
+#### 计算
+
+#### 判断
+
+![image-20250702194912543](excel.assets/image-20250702194912543.png)
+
+#### 转换
+
+![image-20250702195025696](excel.assets/image-20250702195025696.png)
+
+### 怎么学，学什么
+
+![image-20250702195236355](excel.assets/image-20250702195236355.png)
+
+### 嵌套
+
+![image-20250702195907681](excel.assets/image-20250702195907681.png)
+
+### 制作不复复的随机数
+
+![image-20250702195959089](excel.assets/image-20250702195959089.png)
+
+### F9
+
+![image-20250702200749995](excel.assets/image-20250702200749995.png)
+
+### sumif
+
+![image-20250702201009811](excel.assets/image-20250702201009811.png)
+
+### sumif多条件求和制作多条件
+
+![image-20250702202727765](excel.assets/image-20250702202727765.png)
+
+### sumif 求进出金额
+
+![image-20250702203014154](excel.assets/image-20250702203014154.png)
+
+### sumif动态引用
+
+![image-20250702203201515](excel.assets/image-20250702203201515.png)
