@@ -1,4 +1,9 @@
 # adobe-illustrator 小技巧
+## 删除合并后多余锚点
+![alt text](adobe-illustrator.assets/ai-maodian-02.png)
+![alt text](adobe-illustrator.assets/ai-maodian-01.png)
+![alt text](adobe-illustrator.assets/ai-maodian-03.png)
+
 ## 飘带
 ![飘带](adobe-illustrator.assets/piaodai.png)
 ## 混合
