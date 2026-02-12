@@ -1,4 +1,8 @@
 # adobe-illustrator 小技巧
+
+## 使用预览边界
+![飘带](adobe-illustrator.assets/20260212.jpg)
+
 ## 删除合并后多余锚点
 ![alt text](adobe-illustrator.assets/ai-maodian-02.png)
 ![alt text](adobe-illustrator.assets/ai-maodian-01.png)

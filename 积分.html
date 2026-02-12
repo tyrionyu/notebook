@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>家庭每日行为奖惩记录表</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: "Microsoft YaHei", sans-serif;
+        }
+        
+        body {
+            background-color: #f0f7f4;
+            padding: 20px;
+            color: #333;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+            overflow: hidden;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #4CAF50 0%, #2196F3 100%);
+            color: white;
+            padding: 25px;
+            text-align: center;
+        }
+        
+        h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            font-size: 16px;
+            opacity: 0.9;
+        }
+        
+        .info-bar {
+            background-color: #e8f5e9;
+            padding: 15px 25px;
+            display: flex;
+            justify-content: space-between;
+            border-bottom: 1px solid #c8e6c9;
+            font-size: 15px;
+        }
+        
+        .category-container {
+            margin: 0;
+        }
+        
+        .category {
+            padding: 20px 25px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .category:last-child {
+            border-bottom: none;
+        }
+        
+        .category-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            cursor: pointer;
+        }
+        
+        .category-title {
+            font-size: 20px;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+        }
+        
+        .category-icon {
+            width: 24px;
+            height: 24px;
+            margin-right: 10px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 14px;
+        }
+        
+        .toggle-icon {
+            font-size: 18px;
+            transition: transform 0.3s;
+        }
+        
+        .category-content {
+            overflow: hidden;
+            transition: max-height 0.3s ease-out;
+        }
+        
+        .rules-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        .rules-table th {
+            background-color: #f5f5f5;
+            padding: 12px 15px;
+            text-align: left;
+            font-weight: 600;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .rules-table td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        
+        .rules-table tr:last-child td {
+            border-bottom: none;
+        }
+        
+        .reward {
+            color: #388E3C;
+            font-weight: 600;
+        }
+        
+        .punishment {
+            color: #D32F2F;
+            font-weight: 600;
+        }
+        
+        .emotional {
+            background-color: #E3F2FD;
+        }
+        
+        .emotional .category-icon {
+            background-color: #2196F3;
+        }
+        
+        .homework {
+            background-color: #E8F5E9;
+        }
+        
+        .homework .category-icon {
+            background-color: #4CAF50;
+        }
+        
+        .schedule {
+            background-color: #FFF3E0;
+        }
+        
+        .schedule .category-icon {
+            background-color: #FF9800;
+        }
+        
+        .exercise {
+            background-color: #FCE4EC;
+        }
+        
+        .exercise .category-icon {
+            background-color: #E91E63;
+        }
+        
+        @media (max-width: 768px) {
+            .rules-table th, .rules-table td {
+                padding: 8px 10px;
+                font-size: 14px;
+            }
+            
+            .category-title {
+                font-size: 18px;
+            }
+            
+            .info-bar {
+                flex-direction: column;
+                gap: 5px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .rules-table {
+                display: block;
+                overflow-x: auto;
+            }
+            
+            .category {
+                padding: 15px 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>家庭每日行为奖惩记录表</h1>
+            <div class="subtitle">家庭行为积分管理表</div>
+        </header>
+        
+        <div class="info-bar">
+            <div>执行人：一家人</div>
+            <div>起始日期：2025年11月8日</div>
+        </div>
+        
+        <div class="category-container">
+            <!-- 情绪管理 -->
+            <div class="category emotional">
+                <div class="category-header">
+                    <div class="category-title">
+                        <div class="category-icon">1</div>
+                        情绪管理
+                    </div>
+                    <div class="toggle-icon">▼</div>
+                </div>
+                <div class="category-content">
+                    <table class="rules-table">
+                        <thead>
+                            <tr>
+                                <th width="60%">具体规则</th>
+                                <th width="20%">奖励（积分）</th>
+                                <th width="20%">惩罚（积分）</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1. 骂人、使用任何数字字母、阴阳怪气、哼/嘁</td>
+                                <td class="reward">+20</td>
+                                <td class="punishment">-20</td>
+                            </tr>
+                            <tr>
+                                <td>2. 打人</td>
+                                <td class="reward">+10</td>
+                                <td class="punishment">-10</td>
+                            </tr>
+                            <tr>
+                                <td>3. 不好好说话</td>
+                                <td class="reward">+30</td>
+                                <td class="punishment">-30</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            
+            <!-- 作业效率 -->
+            <div class="category homework">
+                <div class="category-header">
+                    <div class="category-title">
+                        <div class="category-icon">2</div>
+                        作业效率
+                    </div>
+                    <div class="toggle-icon">▼</div>
+                </div>
+                <div class="category-content">
+                    <table class="rules-table">
+                        <thead>
+                            <tr>
+                                <th width="60%">具体规则</th>
+                                <th width="20%">奖励（积分）</th>
+                                <th width="20%">惩罚（积分）</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>4. 语文：大作文(40)、小练笔(15)内独立完成，不用催</td>
+                                <td class="reward">+5/科</td>
+                                <td class="punishment">-5/科</td>
+                            </tr>
+                            <tr>
+                                <td>5. 数学：丛书(15)、小达人(10)、四面卷(40)内独立完成，不用催</td>
+                                <td class="reward">+5/科</td>
+                                <td class="punishment">-5/科</td>
+                            </tr>
+                            <tr>
+                                <td>6. 英语：卷子(30)、新启航(10)内独立完成，不用催</td>
+                                <td class="reward">+5/科</td>
+                                <td class="punishment">-5/科</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            
+            <!-- 作息纪律 -->
+            <div class="category schedule">
+                <div class="category-header">
+                    <div class="category-title">
+                        <div class="category-icon">3</div>
+                        作息纪律
+                    </div>
+                    <div class="toggle-icon">▼</div>
+                </div>
+                <div class="category-content">
+                    <table class="rules-table">
+                        <thead>
+                            <tr>
+                                <th width="60%">具体规则</th>
+                                <th width="20%">奖励（积分）</th>
+                                <th width="20%">惩罚（积分）</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>7. 每天放学准时回家</td>
+                                <td class="reward">+5</td>
+                                <td class="punishment">-5</td>
+                            </tr>
+                            <tr>
+                                <td>8. 每天21:30洗澡，22:00睡觉</td>
+                                <td class="reward">+5</td>
+                                <td class="punishment">-5</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            
+            <!-- 运动锻炼 -->
+            <div class="category exercise">
+                <div class="category-header">
+                    <div class="category-title">
+                        <div class="category-icon">4</div>
+                        运动锻炼
+                    </div>
+                    <div class="toggle-icon">▼</div>
+                </div>
+                <div class="category-content">
+                    <table class="rules-table">
+                        <thead>
+                            <tr>
+                                <th width="60%">具体规则</th>
+                                <th width="20%">奖励（积分）</th>
+                                <th width="20%">惩罚（积分）</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>9. 仰卧起坐</td>
+                                <td class="reward">+5</td>
+                                <td class="punishment">-5</td>
+                            </tr>
+                            <tr>
+                                <td>10. 平板支撑</td>
+                                <td class="reward">+5</td>
+                                <td class="punishment">-5</td>
+                            </tr>
+                            <tr>
+                                <td>11. 羽毛球</td>
+                                <td class="reward">+5</td>
+                                <td class="punishment">-5</td>
+                            </tr>
+                            <tr>
+                                <td>12. 跑步</td>
+                                <td class="reward">+5</td>
+                                <td class="punishment">-5</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 折叠/展开功能
+        document.querySelectorAll('.category-header').forEach(header => {
+            header.addEventListener('click', function() {
+                const content = this.nextElementSibling;
+                const icon = this.querySelector('.toggle-icon');
+                
+                if (content.style.maxHeight) {
+                    content.style.maxHeight = null;
+                    icon.style.transform = 'rotate(0deg)';
+                } else {
+                    content.style.maxHeight = content.scrollHeight + "px";
+                    icon.style.transform = 'rotate(180deg)';
+                }
+            });
+        });
+        
+        // 初始化时展开所有内容
+        document.querySelectorAll('.category-content').forEach(content => {
+            content.style.maxHeight = content.scrollHeight + "px";
+        });
+    </script>
+</body>
+</html>
