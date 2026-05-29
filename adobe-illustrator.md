@@ -1,5 +1,8 @@
 # adobe-illustrator 小技巧
 
+## 圆点虚线
+![飘带](adobe-illustrator.assets/20260516-a.jpg)
+
 ## 使用预览边界
 ![飘带](adobe-illustrator.assets/20260212.jpg)
 
