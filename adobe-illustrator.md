@@ -1,5 +1,36 @@
 # adobe-illustrator 小技巧
 
+## ai复制格式去除
+
+![alt text](adobe-illustrator.assets/20260610-a.png)
+
+## 快速调整尺寸
+
+选中一个形状，改好尺寸后，选中另外要改的尺寸，按ctrl+d,可以快速调整尺寸。
+![alt text](adobe-illustrator.assets/20260609-b.png)
+
+## 文字光泽感
+
+![alt text](adobe-illustrator.assets/20260609-a.jpg)
+
+## 剪切蒙版-复合路径-透明蒙版
+
+![alt text](adobe-illustrator.assets/20260608-d.png)
+
+## 图形反白效果
+
+![alt text](adobe-illustrator.assets/20260608-c.png)
+
+## 文字缝隙自然填补
+
+![alt text](adobe-illustrator.assets/20260608-b.png)
+
+## 自动修边
+
+选中需要修边的文字，效果->路径查找器->修边
+选中文字，效果->路径->偏移路径（位移来一个负值，连接选择圆角）
+![alt text](adobe-illustrator.assets/20260608-a.png)
+
 ## 圆点虚线
 ![飘带](adobe-illustrator.assets/20260516-a.jpg)
 
