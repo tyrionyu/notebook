@@ -1,5 +1,26 @@
 # adobe-illustrator 小技巧
 
+## 回纹边饰方法01
+![alt text](adobe-illustrator.assets/hw-gb-image.png)
+![alt text](adobe-illustrator.assets/hw-gb-image-1.png)
+![alt text](adobe-illustrator.assets/hw-gb-image-2.png)
+![alt text](adobe-illustrator.assets/hw-gb-image-3.png)
+![alt text](adobe-illustrator.assets/hw-gb-image-4.png)
+
+## 回纹边饰方法02
+![alt text](adobe-illustrator.assets/hw-wg-image.png)
+![alt text](adobe-illustrator.assets/hw-wg-image-1.png)
+![alt text](adobe-illustrator.assets/hw-wg-image-2.png)
+![alt text](adobe-illustrator.assets/hw-wg-image-3.png)
+![alt text](adobe-illustrator.assets/hw-wg-image-4.png)
+
+## 回纹边饰方法03
+![alt text](adobe-illustrator.assets/hw-image.png)
+![alt text](adobe-illustrator.assets/hw-image-1.png)
+![alt text](adobe-illustrator.assets/hw-image-2.png)
+![alt text](adobe-illustrator.assets/hw-image-3.png)
+![alt text](adobe-illustrator.assets/hw-image-4.png)
+
 ## ai复制格式去除
 
 ![alt text](adobe-illustrator.assets/20260610-a.png)
