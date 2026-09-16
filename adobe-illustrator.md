@@ -1,5 +1,8 @@
 # adobe-illustrator 小技巧
 
+## 图像描摹线稿
+![alt text](adobe-illustrator.assets/image-txmiaomo.png)
+
 ## 回纹边饰方法01
 ![alt text](adobe-illustrator.assets/hw-gb-image.png)
 ![alt text](adobe-illustrator.assets/hw-gb-image-1.png)
