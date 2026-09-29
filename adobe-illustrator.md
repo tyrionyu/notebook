@@ -1,5 +1,8 @@
 # adobe-illustrator 小技巧
 
+## 图形反白效果
+![alt text](adobe-illustrator.assets/fbxg.jpg)
+
 ## 图像描摹线稿
 ![alt text](adobe-illustrator.assets/image-txmiaomo.png)
 
