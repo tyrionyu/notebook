@@ -3,6 +3,13 @@
 ## 图形反白效果
 ![alt text](adobe-illustrator.assets/fbxg.jpg)
 
+**另外一种方法：**
+
+1. 选中图形，ctrl+c（复制），ctrl+f（原位张贴一个）把颜色改为红色。ctrl+3(隐藏);
+2. 取消编组，释放复合路径。选中图形，在路径查找器中选择联集把路径合并起来。
+3. 在路径菜单下面，选择路径偏移路径。输入数值，选择圆角。
+4. 最后再把按ctrl+alt+3，把刚刚隐藏的显示出来就行了。
+
 ## 图像描摹线稿
 ![alt text](adobe-illustrator.assets/image-txmiaomo.png)
 
