@@ -1,5 +1,13 @@
 # adobe-illustrator 小技巧
 
+## 印章
+
+1. 输入印章文字，在外观面板中，点击添加新填充色；
+2. 处理描边；在添加一个描边颜色。在描边中选择：转换路径，选择圆角矩形。扭曲和变换、粗糙化->细节100%，
+3. 处理内容；把内容也添加一个；扭曲和变换、粗糙化->细节100%，
+
+![alt text](adobe-illustrator.assets/yinzhang.png)
+
 ## 图形反白效果
 ![alt text](adobe-illustrator.assets/fbxg.jpg)
 
